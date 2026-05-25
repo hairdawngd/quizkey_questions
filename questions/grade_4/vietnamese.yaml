@@ -1,0 +1,81 @@
+questions:
+- question: Trong câu 'Em chăm chỉ học bài.', từ nào chỉ hoạt động?
+  answer: học
+  choices:
+  - Em
+  - chăm chỉ
+  - học
+  - bài
+  hint: Hoạt động là việc đang làm.
+- question: Từ nào là danh từ?
+  answer: quyển sách
+  choices:
+  - chạy
+  - đẹp
+  - quyển sách
+  - nhanh
+  hint: Danh từ chỉ người, vật, hiện tượng, khái niệm.
+- question: Từ nào là tính từ?
+  answer: hiền lành
+  choices:
+  - ăn
+  - hiền lành
+  - bàn
+  - học
+  hint: Tính từ chỉ đặc điểm, tính chất.
+- question: Dấu nào dùng để kết thúc câu hỏi?
+  answer: Dấu hỏi
+  choices:
+  - Dấu chấm
+  - Dấu hỏi
+  - Dấu phẩy
+  - Dấu hai chấm
+  hint: Câu hỏi cần dấu ?.
+- question: Cặp từ nào trái nghĩa?
+  answer: cao - thấp
+  choices:
+  - cao - thấp
+  - đẹp - xinh
+  - nhanh - mau
+  - to - lớn
+  hint: Trái nghĩa là nghĩa ngược nhau.
+- question: Từ nào viết đúng chính tả?
+  answer: chăm chỉ
+  choices:
+  - trăm chỉ
+  - chăm chỉ
+  - chăm trỉ
+  - trăm trỉ
+  hint: Chăm chỉ nghĩa là siêng năng.
+- question: Câu nào là câu kể?
+  answer: Em đi học.
+  choices:
+  - Em đi học.
+  - Em đi học à?
+  - Hãy đi học!
+  - Ôi đẹp quá!
+  hint: Câu kể dùng để kể, tả, giới thiệu.
+- question: Bộ phận chủ ngữ trong câu 'Bạn Lan đọc sách.' là gì?
+  answer: Bạn Lan
+  choices:
+  - Bạn Lan
+  - đọc
+  - sách
+  - đọc sách
+  hint: Chủ ngữ trả lời câu hỏi Ai?
+- question: Từ đồng nghĩa với 'siêng năng' là gì?
+  answer: chăm chỉ
+  choices:
+  - lười biếng
+  - chăm chỉ
+  - ồn ào
+  - vui vẻ
+  hint: Siêng năng là chăm chỉ.
+- question: Khi viết tên riêng Việt Nam, cần viết như thế nào?
+  answer: Viết hoa chữ cái đầu mỗi tiếng
+  choices:
+  - viết thường hết
+  - Viết hoa chữ cái đầu mỗi tiếng
+  - không cần dấu
+  - viết liền
+  hint: 'Ví dụ: Nguyễn Trãi.'

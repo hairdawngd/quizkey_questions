@@ -1,0 +1,81 @@
+questions:
+- question: 'Lớp 6: 18 + 10 = ?'
+  answer: '28'
+  choices:
+  - '26'
+  - '27'
+  - '28'
+  - '29'
+  hint: Thực hiện phép cộng từng bước.
+- question: 'Lớp 6: 75 - 11 = ?'
+  answer: '64'
+  choices:
+  - '62'
+  - '63'
+  - '64'
+  - '65'
+  hint: Lấy số lớn trừ số nhỏ.
+- question: 'Lớp 6: 8 x 7 = ?'
+  answer: '56'
+  choices:
+  - '54'
+  - '55'
+  - '56'
+  - '57'
+  hint: Nhân hai số tự nhiên.
+- question: Số chẵn liền sau 16 là số nào?
+  answer: '18'
+  choices:
+  - '16'
+  - '17'
+  - '18'
+  - '20'
+  hint: Số chẵn cách nhau 2 đơn vị.
+- question: 6/7 là phân số có tử số là bao nhiêu?
+  answer: '6'
+  choices:
+  - '6'
+  - '7'
+  - '1'
+  - '0'
+  hint: Tử số nằm trên gạch phân số.
+- question: Chu vi hình vuông cạnh 9 cm là bao nhiêu?
+  answer: '36'
+  choices:
+  - '18'
+  - '27'
+  - '36'
+  - '45'
+  hint: Chu vi hình vuông = cạnh x 4.
+- question: Diện tích hình chữ nhật dài 11 cm, rộng 8 cm là bao nhiêu?
+  answer: '88'
+  choices:
+  - '19'
+  - '88'
+  - '22'
+  - '16'
+  hint: Diện tích = dài x rộng.
+- question: Làm tròn số 646 đến hàng chục được số nào?
+  answer: '650'
+  choices:
+  - '640'
+  - '650'
+  - '660'
+  - '646'
+  hint: Chữ số hàng đơn vị là 6 nên làm tròn lên.
+- question: Tỉ số 1:7 nghĩa là 1 phần trên tổng mấy phần bằng nhau?
+  answer: '7'
+  choices:
+  - '6'
+  - '7'
+  - '8'
+  - '1'
+  hint: Số sau dấu hai chấm cho biết số phần so sánh.
+- question: Nếu x + 10 = 30, x bằng bao nhiêu?
+  answer: '20'
+  choices:
+  - '18'
+  - '19'
+  - '20'
+  - '21'
+  hint: Muốn tìm x, lấy tổng trừ số hạng đã biết.

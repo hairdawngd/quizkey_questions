@@ -1,0 +1,81 @@
+questions:
+- question: Choose the correct meaning of 'student'.
+  answer: học sinh
+  choices:
+  - giáo viên
+  - học sinh
+  - bác sĩ
+  - nông dân
+  hint: Student learns at school.
+- question: What is the plural of 'book'?
+  answer: books
+  choices:
+  - bookes
+  - books
+  - bookies
+  - book
+  hint: Usually add -s.
+- question: Choose the correct sentence.
+  answer: I am Vietnamese.
+  choices:
+  - I is Vietnamese.
+  - I am Vietnamese.
+  - I are Vietnamese.
+  - I be Vietnamese.
+  hint: I đi với am.
+- question: '''Good morning'' is used when?'
+  answer: buổi sáng
+  choices:
+  - buổi sáng
+  - buổi tối
+  - khi ngủ
+  - khi tạm biệt
+  hint: Morning = buổi sáng.
+- question: What color is 'green'?
+  answer: màu xanh lá
+  choices:
+  - màu đỏ
+  - màu xanh lá
+  - màu vàng
+  - màu đen
+  hint: Green = xanh lá.
+- question: Choose the word for 'gia đình'.
+  answer: family
+  choices:
+  - school
+  - family
+  - friend
+  - teacher
+  hint: Family means gia đình.
+- question: 'Complete: She ___ a book.'
+  answer: has
+  choices:
+  - have
+  - has
+  - am
+  - are
+  hint: She đi với has.
+- question: What does 'because' mean?
+  answer: bởi vì
+  choices:
+  - nhưng
+  - bởi vì
+  - và
+  - hoặc
+  hint: Because introduces a reason.
+- question: Choose the opposite of 'hot'.
+  answer: cold
+  choices:
+  - warm
+  - cold
+  - big
+  - fast
+  hint: Hot trái nghĩa với cold.
+- question: How do you say 'Cảm ơn' in English?
+  answer: Thank you
+  choices:
+  - Hello
+  - Goodbye
+  - Thank you
+  - Sorry
+  hint: Thank you dùng để cảm ơn.

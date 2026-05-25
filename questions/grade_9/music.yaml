@@ -1,0 +1,81 @@
+questions:
+- question: Nốt nhạc đầu tiên trong dãy Đô Rê Mi là gì?
+  answer: Đô
+  choices:
+  - Đô
+  - Rê
+  - Mi
+  - Son
+  hint: Dãy bắt đầu bằng Đô.
+- question: Kí hiệu lặng trong âm nhạc dùng để làm gì?
+  answer: Tạm ngừng âm thanh
+  choices:
+  - Hát to hơn
+  - Tạm ngừng âm thanh
+  - Tăng tốc
+  - Đổi lời
+  hint: Dấu lặng biểu thị khoảng im lặng.
+- question: Nhịp 2/4 có mấy phách trong một ô nhịp?
+  answer: '2'
+  choices:
+  - '2'
+  - '3'
+  - '4'
+  - '6'
+  hint: Số trên cho biết số phách.
+- question: Bài hát Quốc ca Việt Nam tên là gì?
+  answer: Tiến quân ca
+  choices:
+  - Tiến quân ca
+  - Lý cây xanh
+  - Trống cơm
+  - Bèo dạt mây trôi
+  hint: Quốc ca Việt Nam là Tiến quân ca.
+- question: Âm thanh cao thấp trong âm nhạc gọi là gì?
+  answer: Cao độ
+  choices:
+  - Trường độ
+  - Cao độ
+  - Cường độ
+  - Âm sắc
+  hint: Cao độ nói về cao/thấp.
+- question: Âm thanh mạnh nhẹ gọi là gì?
+  answer: Cường độ
+  choices:
+  - Cường độ
+  - Cao độ
+  - Trường độ
+  - Tốc độ
+  hint: Cường độ nói về mạnh/nhẹ.
+- question: Dụng cụ nào thuộc bộ gõ?
+  answer: Trống
+  choices:
+  - Sáo
+  - Trống
+  - Đàn bầu
+  - Violin
+  hint: Trống tạo âm bằng cách gõ.
+- question: Khi hát đồng ca cần chú ý điều gì?
+  answer: Hát đúng nhịp và hòa giọng
+  choices:
+  - Hét thật to
+  - Hát đúng nhịp và hòa giọng
+  - Nói chuyện
+  - Hát lệch nhịp
+  hint: Đồng ca cần phối hợp.
+- question: Dân ca thường gắn với điều gì?
+  answer: Văn hóa vùng miền
+  choices:
+  - Máy tính
+  - Văn hóa vùng miền
+  - Đèn giao thông
+  - Thể thao
+  hint: Dân ca phản ánh đời sống và văn hóa.
+- question: Tốc độ bài hát nhanh hay chậm gọi là gì?
+  answer: Tiết tấu/nhịp độ
+  choices:
+  - Màu sắc
+  - Tiết tấu/nhịp độ
+  - Độ dài thước
+  - Hình khối
+  hint: Nhịp độ thể hiện nhanh/chậm.

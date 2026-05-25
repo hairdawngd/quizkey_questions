@@ -1,0 +1,81 @@
+questions:
+- question: 'Lớp 5: 15 + 9 = ?'
+  answer: '24'
+  choices:
+  - '22'
+  - '23'
+  - '24'
+  - '25'
+  hint: Thực hiện phép cộng từng bước.
+- question: 'Lớp 5: 65 - 10 = ?'
+  answer: '55'
+  choices:
+  - '53'
+  - '54'
+  - '55'
+  - '56'
+  hint: Lấy số lớn trừ số nhỏ.
+- question: 'Lớp 5: 7 x 6 = ?'
+  answer: '42'
+  choices:
+  - '40'
+  - '41'
+  - '42'
+  - '43'
+  hint: Nhân hai số tự nhiên.
+- question: Số chẵn liền sau 14 là số nào?
+  answer: '16'
+  choices:
+  - '14'
+  - '15'
+  - '16'
+  - '18'
+  hint: Số chẵn cách nhau 2 đơn vị.
+- question: 5/6 là phân số có tử số là bao nhiêu?
+  answer: '5'
+  choices:
+  - '5'
+  - '6'
+  - '1'
+  - '0'
+  hint: Tử số nằm trên gạch phân số.
+- question: Chu vi hình vuông cạnh 8 cm là bao nhiêu?
+  answer: '32'
+  choices:
+  - '16'
+  - '24'
+  - '32'
+  - '40'
+  hint: Chu vi hình vuông = cạnh x 4.
+- question: Diện tích hình chữ nhật dài 10 cm, rộng 7 cm là bao nhiêu?
+  answer: '70'
+  choices:
+  - '17'
+  - '70'
+  - '20'
+  - '14'
+  hint: Diện tích = dài x rộng.
+- question: Làm tròn số 546 đến hàng chục được số nào?
+  answer: '550'
+  choices:
+  - '540'
+  - '550'
+  - '560'
+  - '546'
+  hint: Chữ số hàng đơn vị là 6 nên làm tròn lên.
+- question: Tỉ số 1:6 nghĩa là 1 phần trên tổng mấy phần bằng nhau?
+  answer: '6'
+  choices:
+  - '5'
+  - '6'
+  - '7'
+  - '1'
+  hint: Số sau dấu hai chấm cho biết số phần so sánh.
+- question: Nếu x + 9 = 27, x bằng bao nhiêu?
+  answer: '18'
+  choices:
+  - '16'
+  - '17'
+  - '18'
+  - '19'
+  hint: Muốn tìm x, lấy tổng trừ số hạng đã biết.

@@ -1,0 +1,81 @@
+questions:
+- question: Cây cần gì để sống?
+  answer: Nước
+  choices:
+  - Đá
+  - Nước
+  - Nhựa
+  - Sắt
+  hint: Cây cần được tưới nước.
+- question: Ban ngày ta thường thấy gì trên trời?
+  answer: Mặt trời
+  choices:
+  - Mặt trời
+  - Ngôi sao
+  - Đèn pin
+  - Cái bàn
+  hint: Mặt trời chiếu sáng ban ngày.
+- question: Con cá sống ở đâu?
+  answer: Dưới nước
+  choices:
+  - Trên cây
+  - Dưới nước
+  - Trong tủ
+  - Trên mái nhà
+  hint: Cá bơi trong nước.
+- question: Bộ phận nào dùng để nhìn?
+  answer: Mắt
+  choices:
+  - Tai
+  - Mắt
+  - Mũi
+  - Tay
+  hint: Mắt giúp ta nhìn.
+- question: Bộ phận nào dùng để nghe?
+  answer: Tai
+  choices:
+  - Tai
+  - Mắt
+  - Chân
+  - Miệng
+  hint: Tai nghe âm thanh.
+- question: Vật nào phát sáng ban đêm trên bầu trời?
+  answer: Mặt trăng
+  choices:
+  - Cái ghế
+  - Mặt trăng
+  - Quyển vở
+  - Cây bút
+  hint: Mặt trăng xuất hiện rõ vào ban đêm.
+- question: Con gà có mấy chân?
+  answer: '2'
+  choices:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  hint: Gà đi bằng hai chân.
+- question: Nước đá lạnh hay nóng?
+  answer: Lạnh
+  choices:
+  - Nóng
+  - Lạnh
+  - Cay
+  - Ngọt
+  hint: Nước đá làm từ nước bị đông lại.
+- question: Rửa tay giúp điều gì?
+  answer: Sạch vi khuẩn
+  choices:
+  - Bẩn hơn
+  - Sạch vi khuẩn
+  - Buồn ngủ
+  - Đói bụng
+  hint: Rửa tay giúp sạch sẽ.
+- question: Cây xanh có màu chủ yếu là gì?
+  answer: Xanh lá
+  choices:
+  - Đỏ
+  - Xanh lá
+  - Tím
+  - Đen
+  hint: Lá cây thường màu xanh.

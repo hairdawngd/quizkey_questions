@@ -1,0 +1,681 @@
+questions:
+- question: Trong các từ sau, từ nào là từ chỉ sự vật?
+  answer: dòng sông
+  choices:
+  - dòng sông
+  - xanh biếc
+  - chảy
+  - hiền hòa
+  hint: Từ chỉ sự vật là từ chỉ người, đồ vật, con vật, cây cối, hiện tượng thiên nhiên.
+- question: Câu 'Mùa thu, trời xanh cao vời vợi.' thuộc mẫu câu nào?
+  answer: Ai thế nào?
+  choices:
+  - Ai là gì?
+  - Ai làm gì?
+  - Ai thế nào?
+  - Để làm gì?
+  hint: Câu miêu tả đặc điểm, trạng thái của sự vật.
+- question: Từ nào dưới đây là từ chỉ đặc điểm?
+  answer: rực rỡ
+  choices:
+  - mặt trời
+  - chiếu sáng
+  - rực rỡ
+  - sưởi ấm
+  hint: Từ chỉ đặc điểm nêu lên màu sắc, tính chất của sự vật.
+- question: Dấu phẩy trong câu 'Sáng nay, mẹ đưa em đến trường.' có tác dụng gì?
+  answer: Ngăn cách trạng ngữ chỉ thời gian
+  choices:
+  - Ngăn cách các bộ phận cùng chức vụ
+  - Ngăn cách trạng ngữ chỉ thời gian
+  - Kết thúc câu
+  - Ngăn cách trạng ngữ chỉ nơi chốn
+  hint: Cụm từ 'Sáng nay' cho biết thời điểm diễn ra sự việc.
+- question: Trong câu 'Mảnh trăng khuyết như một chiếc thuyền trôi trên mây.', sự vật nào được so sánh với nhau?
+  answer: Mảnh trăng và chiếc thuyền
+  choices:
+  - Mảnh trăng và đám mây
+  - Chiếc thuyền và đám mây
+  - Mảnh trăng và chiếc thuyền
+  - Mảnh trăng và bầu trời
+  hint: Hai sự vật được đối chiếu với nhau qua từ 'như'.
+- question: Từ trái nghĩa với 'nhỏ bé' là từ nào?
+  answer: khổng lồ
+  choices:
+  - tí hon
+  - khổng lồ
+  - gầy gò
+  - thấp bé
+  hint: Trái nghĩa là có ý nghĩa hoàn toàn ngược lại nhau.
+- question: Câu nào dưới đây có sử dụng biện pháp nhân hóa?
+  answer: Ông mặt trời đạp xe qua đỉnh núi.
+  choices:
+  - Ông mặt trời đạp xe qua đỉnh núi.
+  - Ánh nắng chiếu xuống sân trường.
+  - Chim hót líu lo trên cành cây.
+  - Bầu trời trong xanh.
+  hint: Sự vật được gọi hoặc tả bằng từ ngữ chuyên dùng cho con người.
+- question: Từ nào sau đây không thuộc chủ đề Nghệ thuật?
+  answer: cày cấy
+  choices:
+  - diễn viên
+  - họa sĩ
+  - cày cấy
+  - ca sĩ
+  hint: Hãy tìm từ chỉ hoạt động của nhà nông thay vì liên quan đến môn nghệ thuật.
+- question: Bộ phận trả lời cho câu hỏi 'Ở đâu?' trong câu 'Dưới gốc bàng, chúng em đang chơi nhảy dây.' là gì?
+  answer: Dưới gốc bàng
+  choices:
+  - Dưới gốc bàng
+  - chúng em
+  - đang chơi
+  - nhảy dây
+  hint: Tìm cụm từ chỉ vị trí, địa điểm.
+- question: Từ nào dưới đây tả tiếng nước chảy?
+  answer: róc rách
+  choices:
+  - rì rào
+  - róc rách
+  - xào xạc
+  - lao xao
+  hint: Từ này thường dùng để tả âm thanh của dòng suối nhỏ.
+- question: Từ đồng nghĩa với 'Tổ quốc' là từ nào?
+  answer: đất nước
+  choices:
+  - làng quê
+  - đất nước
+  - thôn xóm
+  - phố phường
+  hint: Tổ quốc là mảnh đất thiêng liêng gắn bó với bao thế hệ.
+- question: Câu nào là câu yêu cầu, đề nghị?
+  answer: Cậu hãy mở cửa sổ ra nhé!
+  choices:
+  - Cậu đang làm gì đấy?
+  - Cậu hãy mở cửa sổ ra nhé!
+  - Cửa sổ đã mở.
+  - Ôi, phong cảnh đẹp quá!
+  hint: Câu yêu cầu, đề nghị thường chứa các từ như hãy, đừng, chớ, đi, thôi, nào.
+- question: Từ nào viết đúng chính tả?
+  answer: xuất sắc
+  choices:
+  - suất xắc
+  - xuất sắc
+  - xuất xắc
+  - suất sắc
+  hint: Chú ý âm đầu 'x' và 's' khi nói về việc đạt thành tích cao nhất.
+- question: Chủ ngữ trong câu 'Những giọt sương mai long lanh trên cành lá.' là gì?
+  answer: Những giọt sương mai
+  choices:
+  - Những giọt sương
+  - Những giọt sương mai
+  - long lanh
+  - trên cành lá
+  hint: Chủ ngữ là bộ phận đứng đầu câu nêu tên sự vật được nhắc đến.
+- question: Trạng ngữ trong câu 'Vì mưa to, đường xá bị ngập.' bổ sung ý nghĩa gì?
+  answer: Nguyên nhân
+  choices:
+  - Thời gian
+  - Nơi chốn
+  - Nguyên nhân
+  - Mục đích
+  hint: Từ 'Vì' dùng để bắt đầu cụm từ giải thích lý do cho một sự việc.
+- question: Trong câu 'Hàng cây bàng đang đâm chồi nảy lộc.', từ nào chỉ sự vật?
+  answer: Hàng cây bàng
+  choices:
+  - Hàng cây bàng
+  - đang
+  - đâm chồi
+  - nảy lộc
+  hint: Từ chỉ sự vật là tên gọi của cây cối, con người, đồ vật.
+- question: Từ nào dưới đây chỉ đặc điểm của một con suối?
+  answer: trong vắt
+  choices:
+  - trong vắt
+  - cao vút
+  - thông minh
+  - hiền hậu
+  hint: Dòng nước thường được miêu tả bằng độ trong hoặc đục.
+- question: Câu 'Bố em là bác sĩ ở bệnh viện tỉnh.' thuộc mẫu câu nào?
+  answer: Ai là gì?
+  choices:
+  - Ai làm gì?
+  - Ai là gì?
+  - Ai thế nào?
+  - Khi nào?
+  hint: Mẫu câu dùng để giới thiệu về nghề nghiệp, danh tính.
+- question: Dấu câu nào dùng để kết thúc câu cảm thán?
+  answer: Dấu chấm than
+  choices:
+  - Dấu chấm
+  - Dấu hỏi
+  - Dấu phẩy
+  - Dấu chấm than
+  hint: Câu bộc lộ cảm xúc vui, buồn, ngạc nhiên cần dùng dấu này (!).
+- question: Trong câu 'Những đám mây trắng như bông trôi trên bầu trời.', từ dùng để so sánh là từ nào?
+  answer: như
+  choices:
+  - trắng
+  - bông
+  - như
+  - trôi
+  hint: Từ nối giữa hai sự vật được so sánh.
+- question: Câu nào dưới đây là câu khiến (câu yêu cầu, đề nghị)?
+  answer: Cháu hãy lấy cho bà cốc nước nhé!
+  choices:
+  - Cháu đang làm gì đấy?
+  - Cháu hãy lấy cho bà cốc nước nhé!
+  - Cốc nước rất mát.
+  - Ôi, cốc nước ngon quá!
+  hint: Câu khiến thường có các từ hãy, đừng, chớ, đi, thôi.
+- question: Từ nào đồng nghĩa với từ 'dũng cảm'?
+  answer: gan dạ
+  choices:
+  - nhút nhát
+  - hèn nhát
+  - gan dạ
+  - lười biếng
+  hint: Phẩm chất không sợ nguy hiểm, dám đối mặt với khó khăn.
+- question: Nhóm từ nào dưới đây nói về chủ đề 'Gia đình'?
+  answer: ông bà, cha mẹ, anh em
+  choices:
+  - thầy giáo, học sinh, lớp học
+  - bác sĩ, y tá, bệnh nhân
+  - ông bà, cha mẹ, anh em
+  - công nhân, nhà máy, máy móc
+  hint: Những người có quan hệ máu mủ, ruột thịt.
+- question: Từ nào viết sai chính tả?
+  answer: chong xanh
+  choices:
+  - trong xanh
+  - chong xanh
+  - trắng tinh
+  - chăm chỉ
+  hint: Chú ý phụ âm đầu 'tr' và 'ch' khi miêu tả bầu trời.
+- question: Biện pháp nghệ thuật nào được sử dụng trong câu 'Chị gió mải miết thổi tung những chiếc lá.'?
+  answer: Nhân hóa
+  choices:
+  - So sánh
+  - Nhân hóa
+  - Điệp ngữ
+  - Ẩn dụ
+  hint: Gọi hiện tượng thiên nhiên bằng đại từ chỉ người ('Chị').
+- question: Bộ phận trả lời câu hỏi 'Khi nào?' trong câu 'Mùa hè, hoa phượng nở đỏ rực sân trường.' là gì?
+  answer: Mùa hè
+  choices:
+  - Mùa hè
+  - hoa phượng
+  - nở đỏ rực
+  - sân trường
+  hint: Cụm từ chỉ thời gian diễn ra sự việc.
+- question: Từ nào là từ chỉ hoạt động của học sinh?
+  answer: làm bài
+  choices:
+  - giảng bài
+  - làm bài
+  - hiền lành
+  - sách vở
+  hint: Việc mà các bạn nhỏ thường làm trên lớp hoặc ở nhà.
+- question: Cặp từ nào dưới đây không phải là cặp từ trái nghĩa?
+  answer: to - lớn
+  choices:
+  - dài - ngắn
+  - ngày - đêm
+  - to - lớn
+  - vui - buồn
+  hint: Tìm hai từ có nghĩa giống nhau (đồng nghĩa).
+- question: "Dấu hai chấm (:) trong câu 'Mẹ đi chợ mua nhiều thứ: rau, cá, thịt và hoa.' có tác dụng gì?"
+  answer: Báo hiệu bộ phận liệt kê
+  choices:
+  - Kết thúc câu
+  - Báo hiệu lời nói trực tiếp
+  - Báo hiệu bộ phận liệt kê
+  - Ngăn cách các vế câu
+  hint: Đứng trước một chuỗi các sự vật được kể ra.
+- question: Trong câu 'Cái trống trường em nằm im trong dịp hè.', từ nào thể hiện sự nhân hóa?
+  answer: nằm im
+  choices:
+  - Cái trống
+  - trường em
+  - nằm im
+  - dịp hè
+  hint: Hoạt động nghỉ ngơi giống như của con người được gán cho đồ vật.
+- question: Từ nào chứa vần 'iêng'?
+  answer: củ riềng
+  choices:
+  - con kiến
+  - củ riềng
+  - lười biếng
+  - thiêng liêng
+  hint: Chú ý phân biệt 'iêng' và 'iên', tìm từ chỉ một loại củ làm gia vị.
+- question: Câu 'Cậu bé chạy rất nhanh.' có bộ phận 'rất nhanh' trả lời cho câu hỏi nào?
+  answer: Như thế nào?
+  choices:
+  - Là gì?
+  - Làm gì?
+  - Như thế nào?
+  - Ở đâu?
+  hint: Từ chỉ đặc điểm của một hoạt động.
+- question: Từ nào miêu tả âm thanh của tiếng chim hót?
+  answer: líu lo
+  choices:
+  - rào rào
+  - ầm ầm
+  - líu lo
+  - xào xạc
+  hint: Âm thanh trong trẻo, vui tai của các loài chim.
+- question: Điền từ thích hợp vào chỗ trống 'Một con ngựa đau, cả tàu bỏ ...'
+  answer: cỏ
+  choices:
+  - ăn
+  - cỏ
+  - chạy
+  - chuồng
+  hint: Câu tục ngữ khuyên con người biết yêu thương, đoàn kết.
+- question: Nhóm từ nào chỉ các môn thể thao?
+  answer: bơi lội, bóng đá, cầu lông
+  choices:
+  - múa, hát, diễn kịch
+  - vẽ, nặn, điêu khắc
+  - bơi lội, bóng đá, cầu lông
+  - toán, tiếng việt, tự nhiên
+  hint: Các hoạt động rèn luyện thể chất, sức khỏe.
+- question: Từ nào trái nghĩa với từ 'hòa bình'?
+  answer: chiến tranh
+  choices:
+  - bình yên
+  - chiến tranh
+  - ồn ào
+  - vắng vẻ
+  hint: Tình trạng xung đột, đánh nhau bằng vũ trang.
+- question: Chủ ngữ trong câu 'Trên đồng cỏ, đàn bò đang gặm cỏ.' là gì?
+  answer: đàn bò
+  choices:
+  - Trên đồng cỏ
+  - đàn bò
+  - đang
+  - gặm cỏ
+  hint: Con vật thực hiện hành động trong câu.
+- question: Từ nào viết đúng chính tả?
+  answer: lung linh
+  choices:
+  - nung ninh
+  - lung ninh
+  - nung linh
+  - lung linh
+  hint: Phụ âm 'l' dùng để miêu tả ánh sáng lấp lánh, lay động.
+- question: Câu 'Ôi, bông hoa này đẹp quá!' là loại câu gì?
+  answer: Câu cảm
+  choices:
+  - Câu kể
+  - Câu hỏi
+  - Câu khiến
+  - Câu cảm
+  hint: Câu bộc lộ cảm xúc ngạc nhiên, khen ngợi.
+- question: Trong câu 'Những hạt sương long lanh như những hạt ngọc.', từ 'long lanh' là từ chỉ gì?
+  answer: Đặc điểm
+  choices:
+  - Sự vật
+  - Hoạt động
+  - Đặc điểm
+  - Thời gian
+  hint: Từ miêu tả vẻ đẹp của hạt sương khi có ánh sáng chiếu vào.
+- question: Bộ phận trả lời câu hỏi 'Vì sao?' trong câu 'Nhờ chăm chỉ, Lan đã đạt điểm cao.' là gì?
+  answer: Nhờ chăm chỉ
+  choices:
+  - Nhờ chăm chỉ
+  - Lan
+  - đã đạt
+  - điểm cao
+  hint: Cụm từ chỉ nguyên nhân dẫn đến kết quả tốt đẹp.
+- question: Từ đồng nghĩa với 'quê hương' là gì?
+  answer: quê quán
+  choices:
+  - thành phố
+  - nhà cửa
+  - quê quán
+  - trường học
+  hint: Nơi mình sinh ra và lớn lên.
+- question: Trong bài tập làm văn miêu tả đồ vật, phần Thân bài thường viết gì?
+  answer: Tả đặc điểm hình dáng và công dụng của đồ vật
+  choices:
+  - Giới thiệu đồ vật
+  - Nêu tình cảm với đồ vật
+  - Tả đặc điểm hình dáng và công dụng của đồ vật
+  - Kể về người tặng
+  hint: Phần chính dùng để miêu tả chi tiết.
+- question: Từ nào có thể ghép với từ 'xanh' để chỉ màu sắc của bầu trời?
+  answer: thẳm
+  choices:
+  - mượt
+  - thẳm
+  - ngắt
+  - xao
+  hint: Bầu trời cao và sâu thẳm.
+- question: Câu nào dưới đây dùng đúng dấu phẩy?
+  answer: Ở nhà, em thường giúp mẹ quét sân, nhặt rau.
+  choices:
+  - Ở nhà em thường giúp mẹ, quét sân nhặt rau.
+  - Ở nhà, em thường giúp mẹ quét sân, nhặt rau.
+  - Ở nhà, em thường giúp mẹ quét sân nhặt rau.
+  - Ở, nhà em thường giúp mẹ quét, sân nhặt rau.
+  hint: Dấu phẩy dùng để ngăn cách trạng ngữ và ngăn cách các từ cùng chức vụ (các hành động).
+- question: Từ nào dưới đây là đại từ xưng hô?
+  answer: chúng tôi
+  choices:
+  - trường học
+  - chúng tôi
+  - vui vẻ
+  - chạy nhảy
+  hint: Từ dùng để tự xưng mình khi nói chuyện với người khác.
+- question: Nhóm từ nào nói về chủ đề 'Bảo vệ môi trường'?
+  answer: trồng cây, nhặt rác, phân loại rác
+  choices:
+  - chặt cây, xả rác, khói bụi
+  - đá bóng, bơi lội, nhảy dây
+  - vẽ tranh, đàn piano, ca hát
+  - trồng cây, nhặt rác, phân loại rác
+  hint: Những hành động tích cực giúp Trái Đất xanh - sạch - đẹp.
+- question: Trong câu 'Bác sĩ đang khám bệnh cho bệnh nhân.', từ chỉ hoạt động là gì?
+  answer: khám bệnh
+  choices:
+  - Bác sĩ
+  - đang
+  - khám bệnh
+  - bệnh nhân
+  hint: Hành động mà bác sĩ thực hiện để tìm ra bệnh.
+- question: Từ nào sau đây miêu tả hình dáng của một người?
+  answer: cao lớn
+  choices:
+  - thông minh
+  - tốt bụng
+  - cao lớn
+  - vui vẻ
+  hint: Đặc điểm bên ngoài có thể nhìn thấy bằng mắt.
+- question: Câu 'Chim én báo hiệu mùa xuân về.' thuộc kiểu câu nào?
+  answer: Ai làm gì?
+  choices:
+  - Ai làm gì?
+  - Ai là gì?
+  - Ai thế nào?
+  - Bằng gì?
+  hint: Câu có từ chỉ hoạt động 'báo hiệu'.
+- question: Trạng ngữ 'Để có sức khỏe tốt' trong câu 'Để có sức khỏe tốt, em thường xuyên tập thể dục.' trả lời cho câu hỏi nào?
+  answer: Để làm gì?
+  choices:
+  - Khi nào?
+  - Ở đâu?
+  - Vì sao?
+  - Để làm gì?
+  hint: Cụm từ chỉ mục đích của một hành động.
+- question: Từ nào không cùng nhóm với các từ còn lại?
+  answer: sách vở
+  choices:
+  - hoa hồng
+  - hoa mai
+  - sách vở
+  - hoa đào
+  hint: Tìm một từ chỉ đồ dùng học tập lẫn trong các từ chỉ loài hoa.
+- question: Trong câu 'Lá cờ bay phấp phới trước gió.', từ 'phấp phới' chỉ điều gì?
+  answer: Hoạt động, trạng thái bay của lá cờ
+  choices:
+  - Màu sắc của lá cờ
+  - Kích thước của lá cờ
+  - Hoạt động, trạng thái bay của lá cờ
+  - Hình dáng của lá cờ
+  hint: Từ tượng hình miêu tả sự chuyển động nhẹ nhàng, liên tục trong gió.
+- question: Câu tục ngữ 'Lá lành đùm lá rách' nói về đức tính gì?
+  answer: Yêu thương, đùm bọc
+  choices:
+  - Chăm chỉ
+  - Trung thực
+  - Dũng cảm
+  - Yêu thương, đùm bọc
+  hint: Người có điều kiện tốt giúp đỡ người gặp khó khăn.
+- question: "Điền từ còn thiếu vào câu ca dao: 'Công cha như núi Thái Sơn / Nghĩa mẹ như nước trong ... chảy ra.'"
+  answer: nguồn
+  choices:
+  - suối
+  - nguồn
+  - sông
+  - biển
+  hint: Nơi bắt đầu của dòng nước, luôn dạt dào không bao giờ cạn.
+- question: Từ nào đồng nghĩa với 'thông minh'?
+  answer: sáng dạ
+  choices:
+  - lười biếng
+  - ngoan ngoãn
+  - sáng dạ
+  - chậm chạp
+  hint: Từ này chỉ khả năng tiếp thu nhanh, hiểu biết tốt.
+- question: Câu 'Quyển sách này rất hay.' thuộc mẫu câu nào?
+  answer: Ai thế nào?
+  choices:
+  - Ai là gì?
+  - Ai làm gì?
+  - Ai thế nào?
+  - Khi nào?
+  hint: Câu miêu tả tính chất, đặc điểm của quyển sách.
+- question: Từ nào dưới đây viết sai chính tả?
+  answer: xôn sao
+  choices:
+  - sương sớm
+  - xôn sao
+  - xinh xắn
+  - xám xịt
+  hint: Từ chỉ âm thanh ồn ào, nhiều người nói chuyện phải dùng phụ âm 'x' cho cả hai tiếng.
+- question: Dấu ngoặc kép (" ") trong câu thường được dùng để làm gì?
+  answer: Đánh dấu lời nói trực tiếp hoặc từ ngữ được dùng với ý nghĩa đặc biệt
+  choices:
+  - Kết thúc một câu hỏi
+  - Ngăn cách các bộ phận trong câu
+  - Báo hiệu phần liệt kê
+  - Đánh dấu lời nói trực tiếp hoặc từ ngữ được dùng với ý nghĩa đặc biệt
+  hint: Khi trích dẫn nguyên văn lời của ai đó, ta thường dùng dấu này.
+- question: Trong câu 'Bác ong vàng chăm chỉ đi tìm mật.', tác giả đã nhân hóa con ong bằng cách nào?
+  answer: Gọi con ong bằng 'Bác'
+  choices:
+  - Tả hoạt động 'tìm mật'
+  - Gọi con ong bằng 'Bác'
+  - Tả màu sắc 'vàng'
+  - Tả tính cách 'chăm chỉ'
+  hint: Con vật được gọi bằng từ ngữ vốn dùng để gọi người.
+- question: Bộ phận trả lời cho câu hỏi 'Bằng gì?' trong câu 'Em viết bài bằng chiếc bút máy.' là?
+  answer: bằng chiếc bút máy
+  choices:
+  - Em
+  - viết bài
+  - bằng chiếc bút
+  - bằng chiếc bút máy
+  hint: Cụm từ chỉ công cụ, phương tiện để thực hiện hành động.
+- question: Từ trái nghĩa với 'nhanh nhẹn' là từ nào?
+  answer: chậm chạp
+  choices:
+  - hoạt bát
+  - chậm chạp
+  - vội vã
+  - lười biếng
+  hint: Từ miêu tả hành động thiếu tốc độ, tốn nhiều thời gian.
+- question: Câu nào dưới đây là câu cảm?
+  answer: Chà, con mèo này ngoan quá!
+  choices:
+  - Con mèo đang ăn cơm.
+  - Con mèo này có ngoan không?
+  - Chà, con mèo này ngoan quá!
+  - Hãy cho con mèo ăn đi!
+  hint: Câu bộc lộ cảm xúc khen ngợi và thường kết thúc bằng dấu chấm than.
+- question: Nhóm từ nào dưới đây không cùng loại với các từ còn lại?
+  answer: múa hát
+  choices:
+  - thước kẻ
+  - bút chì
+  - quyển vở
+  - múa hát
+  hint: Hãy tìm một từ chỉ hoạt động nằm lẫn trong nhóm từ chỉ đồ dùng học tập.
+- question: Từ nào tả đặc điểm về thời tiết của mùa hè?
+  answer: nóng bức
+  choices:
+  - rét buốt
+  - mát mẻ
+  - nóng bức
+  - ấm áp
+  hint: Mùa hè thường có nhiệt độ rất cao, gây cảm giác oi ả.
+- question: Chủ ngữ trong câu 'Tiếng chim hót líu lo trên cành.' là gì?
+  answer: Tiếng chim
+  choices:
+  - Tiếng chim
+  - hót
+  - líu lo
+  - trên cành
+  hint: Chủ ngữ nêu lên sự vật được nói đến trong câu.
+- question: Vị ngữ trong câu 'Mẹ em đang nấu cơm dưới bếp.' là gì?
+  answer: đang nấu cơm dưới bếp
+  choices:
+  - Mẹ em
+  - đang nấu cơm
+  - dưới bếp
+  - đang nấu cơm dưới bếp
+  hint: Vị ngữ cho biết chủ ngữ đang làm hành động gì, ở đâu.
+- question: Trong các từ sau, từ nào là từ chỉ hiện tượng thiên nhiên?
+  answer: mưa bão
+  choices:
+  - cây cối
+  - con người
+  - mưa bão
+  - nhà cửa
+  hint: Sự việc xảy ra trong tự nhiên như mưa, nắng, sấm, chớp.
+- question: Từ nào viết đúng chính tả?
+  answer: con hươu
+  choices:
+  - con hiêu
+  - con hươu
+  - con hưn
+  - con hiêu
+  hint: Tên một loài động vật ăn cỏ có cặp sừng đẹp, chứa vần 'ươu'.
+- question: Câu 'Môn học em yêu thích nhất là Tiếng Việt.' thuộc kiểu câu gì?
+  answer: Ai là gì?
+  choices:
+  - Ai làm gì?
+  - Ai thế nào?
+  - Ai là gì?
+  - Ở đâu?
+  hint: Câu có từ 'là' dùng để giới thiệu, giải thích.
+- question: Trái nghĩa với từ 'sạch sẽ' là từ nào?
+  answer: bẩn thỉu
+  choices:
+  - thơm tho
+  - bẩn thỉu
+  - gọn gàng
+  - ngăn nắp
+  hint: Tình trạng không được vệ sinh, có nhiều vết bẩn.
+- question: Câu tục ngữ 'Thương người như thể thương ...' điền từ nào vào chỗ trống?
+  answer: thân
+  choices:
+  - mình
+  - thân
+  - bạn
+  - nhà
+  hint: Nghĩa là yêu thương người khác như yêu thương chính bản thân mình.
+- question: Từ nào chỉ hoạt động của đôi mắt?
+  answer: ngắm nhìn
+  choices:
+  - lắng nghe
+  - ngửi
+  - ngắm nhìn
+  - nếm
+  hint: Hành động dùng mắt để quan sát sự vật.
+- question: Trong câu 'Những nàng mây đang dạo chơi trên bầu trời.', từ nào dùng để nhân hóa?
+  answer: nàng, dạo chơi
+  choices:
+  - Những, đang
+  - mây, bầu trời
+  - nàng, dạo chơi
+  - dạo chơi, trên
+  hint: Từ dùng để gọi người (nàng) và hành động của người (dạo chơi) được gán cho mây.
+- question: Từ ghép nào chứa tiếng 'quốc' mang nghĩa là nước?
+  answer: quốc gia
+  choices:
+  - tổ quốc
+  - quốc gia
+  - quốc kỳ
+  - Tất cả các ý trên
+  hint: Tiếng 'quốc' trong âm Hán Việt có nghĩa là nước, đất nước.
+- question: Từ nào miêu tả dáng đi của một chú voi?
+  answer: lững thững
+  choices:
+  - thoăn thoắt
+  - uyển chuyển
+  - lững thững
+  - nhanh nhẹn
+  hint: Dáng đi chậm chạp, nặng nề từng bước một.
+- question: Dấu phẩy trong câu 'Lớp em trồng hoa cúc, hoa hồng, hoa đồng tiền.' có tác dụng gì?
+  answer: Ngăn cách các từ cùng chỉ sự vật
+  choices:
+  - Ngăn cách trạng ngữ
+  - Ngăn cách các từ cùng chỉ sự vật
+  - Ngăn cách các từ cùng chỉ hoạt động
+  - Kết thúc câu
+  hint: Cúc, hồng, đồng tiền đều là tên các loài hoa đứng cạnh nhau.
+- question: Trạng ngữ 'Bằng đôi bàn tay khéo léo' trong câu 'Bằng đôi bàn tay khéo léo, bà đã đan cho em chiếc áo len.' trả lời cho câu hỏi nào?
+  answer: Bằng gì?
+  choices:
+  - Khi nào?
+  - Bằng gì?
+  - Để làm gì?
+  - Vì sao?
+  hint: Cụm từ bắt đầu bằng từ 'Bằng' chỉ phương tiện, cách thức.
+- question: Nhóm từ nào chỉ các loại nhạc cụ?
+  answer: đàn ghi-ta, sáo, trống
+  choices:
+  - đàn ghi-ta, sáo, trống
+  - ca sĩ, sân khấu, bài hát
+  - múa, khiêu vũ, diễn kịch
+  - bút vẽ, bảng màu, tranh
+  hint: Đồ vật được con người sử dụng để tạo ra âm nhạc.
+- question: Từ đồng nghĩa với từ 'buồn bã' là từ nào?
+  answer: rầu rĩ
+  choices:
+  - vui tươi
+  - phấn khởi
+  - rầu rĩ
+  - hạnh phúc
+  hint: Từ miêu tả trạng thái ủ rũ, không vui.
+- question: Câu 'Vì trời mưa to, chúng em không được đi cắm trại.' có bộ phận 'Vì trời mưa to' là trạng ngữ chỉ gì?
+  answer: Nguyên nhân
+  choices:
+  - Nơi chốn
+  - Thời gian
+  - Nguyên nhân
+  - Mục đích
+  hint: Giải thích lý do khiến việc cắm trại bị hủy.
+- question: Từ nào viết sai chính tả về âm l/n?
+  answer: lo lước
+  choices:
+  - lo lắng
+  - lung linh
+  - lo lước
+  - nôn nao
+  hint: Từ chỉ trạng thái háo hức mong chờ phải viết là 'nô nức'.
+- question: Câu nào có sử dụng biện pháp so sánh?
+  answer: Tiếng suối trong như tiếng hát xa.
+  choices:
+  - Dòng suối chảy róc rách trong rừng.
+  - Tiếng suối trong như tiếng hát xa.
+  - Em rất thích đi tắm suối.
+  - Con suối này rất sâu.
+  hint: Câu có từ 'như' kết nối âm thanh của suối và tiếng hát.
+- question: Từ nào chứa vần 'oay'?
+  answer: loay hoay
+  choices:
+  - quả xoài
+  - loay hoay
+  - củ khoai
+  - máy cày
+  hint: Từ chỉ hành động cặm cụi, thử đi thử lại một việc gì đó.
+- question: Trong bài văn kể về một người lao động, câu mở đoạn thường dùng để làm gì?
+  answer: Giới thiệu người lao động đó là ai, làm nghề gì
+  choices:
+  - Tả ngoại hình của người đó
+  - Giới thiệu người lao động đó là ai, làm nghề gì
+  - Kể về công việc hàng ngày của người đó
+  - Nêu tình cảm của em với người đó
+  hint: Phần đầu tiên của đoạn văn luôn cần giới thiệu đối tượng sẽ kể.

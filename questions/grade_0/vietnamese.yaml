@@ -1,0 +1,81 @@
+questions:
+- question: Chữ cái đầu tiên trong bảng chữ cái tiếng Việt là chữ nào?
+  answer: A
+  choices:
+  - A
+  - B
+  - C
+  - D
+  hint: A đứng đầu bảng chữ cái.
+- question: Từ nào chỉ con vật?
+  answer: Mèo
+  choices:
+  - Bàn
+  - Mèo
+  - Ghế
+  - Cốc
+  hint: Mèo là con vật nuôi.
+- question: Tiếng 'ba' gồm mấy chữ cái?
+  answer: '2'
+  choices:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  hint: b và a.
+- question: Từ nào chỉ người thân trong gia đình?
+  answer: Mẹ
+  choices:
+  - Mẹ
+  - Mây
+  - Mưa
+  - Mía
+  hint: Mẹ là người thân.
+- question: Chữ nào có trong từ 'bé'?
+  answer: b
+  choices:
+  - a
+  - b
+  - c
+  - d
+  hint: Từ bé bắt đầu bằng b.
+- question: Từ nào chỉ đồ dùng học tập?
+  answer: Bút
+  choices:
+  - Bút
+  - Cá
+  - Gà
+  - Mèo
+  hint: Bút dùng để viết.
+- question: Âm đầu của tiếng 'mẹ' là gì?
+  answer: m
+  choices:
+  - b
+  - m
+  - n
+  - c
+  hint: Mẹ bắt đầu bằng âm m.
+- question: Từ nào có nghĩa là chào hỏi?
+  answer: Xin chào
+  choices:
+  - Xin chào
+  - Tạm biệt
+  - Ngủ ngon
+  - Cảm ơn
+  hint: Khi gặp nhau ta nói xin chào.
+- question: 'Chọn từ đúng với tranh tưởng tượng: con bay trên trời là?'
+  answer: Chim
+  choices:
+  - Cá
+  - Chim
+  - Mèo
+  - Chó
+  hint: Chim có cánh và bay được.
+- question: Từ nào chỉ màu sắc?
+  answer: Đỏ
+  choices:
+  - Đỏ
+  - Ăn
+  - Chạy
+  - Ngủ
+  hint: Đỏ là một màu.

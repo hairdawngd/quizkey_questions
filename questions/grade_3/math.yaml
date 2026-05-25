@@ -1,0 +1,465 @@
+questions:
+- question: Số 'Hai mươi tư nghìn không trăm mười lăm' được viết là gì?
+  answer: 24 015
+  choices:
+  - 24 015
+  - 24 150
+  - 20 415
+  - 24 005
+  hint: Chú ý chữ số hàng nghìn là 24, hàng trăm là 0, hàng chục là 1, hàng đơn vị là 5.
+- question: Số VII trong chữ số La Mã đọc là gì?
+  answer: Bảy
+  choices:
+  - Năm
+  - Sáu
+  - Bảy
+  - Tám
+  hint: V là 5, I là 1. VII là 5 + 1 + 1.
+- question: Kết quả của phép nhân 12 × 4 là bao nhiêu?
+  answer: 48
+  choices:
+  - 42
+  - 46
+  - 48
+  - 50
+  hint: Nhẩm 10 × 4 = 40 và 2 × 4 = 8, rồi cộng lại.
+- question: "Kết quả của phép chia 45 : 5 là bao nhiêu?"
+  answer: 9
+  choices:
+  - 7
+  - 8
+  - 9
+  - 10
+  hint: Nhẩm bảng nhân 5, 5 nhân mấy bằng 45?
+- question: Làm tròn số 435 đến hàng chục ta được số nào?
+  answer: 440
+  choices:
+  - 430
+  - 435
+  - 440
+  - 450
+  hint: Chữ số hàng đơn vị là 5 (từ 5 trở lên), nên ta làm tròn lên.
+- question: Chu vi của hình chữ nhật có chiều dài 8 cm, chiều rộng 5 cm là bao nhiêu?
+  answer: 26 cm
+  choices:
+  - 13 cm
+  - 26 cm
+  - 40 cm
+  - 30 cm
+  hint: Công thức tính chu vi hình chữ nhật là (chiều dài + chiều rộng) × 2.
+- question: Diện tích của hình vuông có cạnh 6 cm là bao nhiêu?
+  answer: 36 cm2
+  choices:
+  - 12 cm2
+  - 24 cm2
+  - 36 cm2
+  - 40 cm2
+  hint: Công thức tính diện tích hình vuông là cạnh nhân cạnh.
+- question: 1 kg bằng bao nhiêu gam?
+  answer: 1000 g
+  choices:
+  - 10 g
+  - 100 g
+  - 1000 g
+  - 10000 g
+  hint: Ki-lô-gam là đơn vị lớn hơn gam 1000 lần.
+- question: Mẹ rót đều 1 lít sữa vào 4 cốc. Mỗi cốc có bao nhiêu mi-li-lít sữa?
+  answer: 250 ml
+  choices:
+  - 100 ml
+  - 200 ml
+  - 250 ml
+  - 500 ml
+  hint: Đổi 1 lít = 1000 ml, sau đó lấy 1000 chia cho 4.
+- question: Giá trị của biểu thức 15 + 5 × 3 là bao nhiêu?
+  answer: 30
+  choices:
+  - 30
+  - 60
+  - 20
+  - 45
+  hint: Trong biểu thức có phép cộng và phép nhân, ta phải thực hiện phép nhân trước.
+- question: Số nào lớn nhất trong các số sau đây?
+  answer: 89 100
+  choices:
+  - 89 010
+  - 88 999
+  - 89 100
+  - 89 099
+  hint: So sánh từng chữ số từ trái sang phải, so sánh đến hàng trăm để tìm số lớn nhất.
+- question: "Tìm x biết x : 4 = 12"
+  answer: 48
+  choices:
+  - 3
+  - 8
+  - 16
+  - 48
+  hint: Muốn tìm số bị chia, ta lấy thương nhân với số chia.
+- question: Đồng hồ chỉ 3 giờ 15 phút, kim dài (kim phút) chỉ vào số mấy?
+  answer: Số 3
+  choices:
+  - Số 1
+  - Số 2
+  - Số 3
+  - Số 4
+  hint: Mỗi khoảng giữa 2 số trên đồng hồ tương ứng với 5 phút. Lấy 15 chia 5.
+- question: Một lớp học có 4 hàng ghế, mỗi hàng có 8 học sinh. Lớp đó có tất cả bao nhiêu học sinh?
+  answer: 32 học sinh
+  choices:
+  - 12 học sinh
+  - 24 học sinh
+  - 32 học sinh
+  - 40 học sinh
+  hint: Dùng phép nhân để tính tổng số học sinh.
+- question: Có 37 bông hoa cắm vào các lọ, mỗi lọ 5 bông. Hỏi cắm được nhiều nhất bao nhiêu lọ và còn thừa mấy bông?
+  answer: 7 lọ, thừa 2 bông
+  choices:
+  - 6 lọ, thừa 7 bông
+  - 7 lọ, thừa 2 bông
+  - 8 lọ, thừa 0 bông
+  - 7 lọ, thừa 1 bông
+  hint: "Thực hiện phép chia 37 : 5 để tìm thương và số dư."
+- question: Hình có 4 góc vuông và 4 cạnh bằng nhau là hình gì?
+  answer: Hình vuông
+  choices:
+  - Hình chữ nhật
+  - Hình thoi
+  - Hình vuông
+  - Hình bình hành
+  hint: Đây là đặc điểm của một hình học cơ bản đã học.
+- question: Điểm O là trung điểm của đoạn thẳng AB dài 10 cm. Độ dài đoạn thẳng OA là bao nhiêu?
+  answer: 5 cm
+  choices:
+  - 2 cm
+  - 5 cm
+  - 10 cm
+  - 20 cm
+  hint: Trung điểm chia đoạn thẳng thành hai phần bằng nhau.
+- question: 1/3 của 27 quả cam là bao nhiêu quả?
+  answer: 9 quả
+  choices:
+  - 7 quả
+  - 8 quả
+  - 9 quả
+  - 10 quả
+  hint: Muốn tìm một phần ba của 27, ta lấy 27 chia cho 3.
+- question: Số gồm 3 chục nghìn, 5 trăm, 2 đơn vị được viết là gì?
+  answer: 30 502
+  choices:
+  - 35 200
+  - 30 520
+  - 30 502
+  - 35 002
+  hint: Các hàng không được nhắc đến (hàng nghìn, hàng chục) sẽ có giá trị bằng chữ số 0.
+- question: Tờ tiền nào có giá trị lớn nhất trong các tờ tiền sau?
+  answer: 100 000 đồng
+  choices:
+  - 10 000 đồng
+  - 20 000 đồng
+  - 50 000 đồng
+  - 100 000 đồng
+  hint: So sánh các con số được ghi trên mệnh giá tiền.
+- question: Tháng 2 của một năm không nhuận có bao nhiêu ngày?
+  answer: 28 ngày
+  choices:
+  - 28 ngày
+  - 29 ngày
+  - 30 ngày
+  - 31 ngày
+  hint: Tháng 2 có ít ngày nhất trong năm, năm nhuận mới có 29 ngày.
+- question: 2 m 5 cm = ... cm. Số thích hợp điền vào chỗ chấm là?
+  answer: 205
+  choices:
+  - 25
+  - 205
+  - 250
+  - 2005
+  hint: Đổi 2 m = 200 cm, sau đó cộng thêm 5 cm.
+- question: "Tìm x biết 56 : x = 8"
+  answer: 7
+  choices:
+  - 6
+  - 7
+  - 8
+  - 9
+  hint: Muốn tìm số chia, ta lấy số bị chia chia cho thương.
+- question: Một hình tam giác có độ dài các cạnh lần lượt là 12 cm, 15 cm, 18 cm. Chu vi hình tam giác đó là?
+  answer: 45 cm
+  choices:
+  - 35 cm
+  - 40 cm
+  - 45 cm
+  - 50 cm
+  hint: Chu vi tam giác bằng tổng độ dài 3 cạnh cộng lại.
+- question: Lan mua 2 quyển vở, mỗi quyển giá 8 000 đồng và 1 cây bút giá 5 000 đồng. Lan phải trả cô bán hàng bao nhiêu tiền?
+  answer: 21 000 đồng
+  choices:
+  - 13 000 đồng
+  - 21 000 đồng
+  - 26 000 đồng
+  - 16 000 đồng
+  hint: Tính tiền mua 2 quyển vở trước (2 x 8.000), sau đó cộng với tiền mua bút.
+- question: Số XIX trong số La Mã có giá trị là bao nhiêu?
+  answer: 19
+  choices:
+  - 11
+  - 15
+  - 19
+  - 21
+  hint: X là 10, IX là 9. XIX là 10 + 9.
+- question: Nhiệt độ cơ thể người bình thường khỏe mạnh là khoảng bao nhiêu độ C?
+  answer: 37 độ C
+  choices:
+  - 20 độ C
+  - 30 độ C
+  - 37 độ C
+  - 100 độ C
+  hint: Đây là một kiến thức thực tế về đo nhiệt độ cơ thể người.
+- question: Phép chia nào sau đây có số dư lớn nhất khi chia cho 5?
+  answer: "19 : 5"
+  choices:
+  - "16 : 5"
+  - "17 : 5"
+  - "18 : 5"
+  - "19 : 5"
+  hint: Số dư lớn nhất trong phép chia cho 5 là 4.
+- question: Làm tròn số 6 524 đến hàng nghìn ta được số nào?
+  answer: 7 000
+  choices:
+  - 6 000
+  - 6 500
+  - 7 000
+  - 6 600
+  hint: Chữ số hàng trăm là 5 (từ 5 trở lên), nên ta làm tròn lên ở hàng nghìn.
+- question: Trong một hình tròn, đường kính dài gấp mấy lần bán kính?
+  answer: 2 lần
+  choices:
+  - 2 lần
+  - 3 lần
+  - 4 lần
+  - Bằng nhau
+  hint: Đường kính là đoạn thẳng đi qua tâm và nối hai điểm trên đường tròn, nó bằng hai lần bán kính.
+- question: Giá trị của biểu thức 45 - (15 + 5) là bao nhiêu?
+  answer: 25
+  choices:
+  - 35
+  - 25
+  - 20
+  - 30
+  hint: Biểu thức có dấu ngoặc, ta phải tính trong ngoặc trước.
+- question: 1 cm bằng bao nhiêu mi-li-mét (mm)?
+  answer: 10 mm
+  choices:
+  - 10 mm
+  - 100 mm
+  - 1000 mm
+  - 5 mm
+  hint: Mi-li-mét là đơn vị đo độ dài nhỏ hơn xăng-ti-mét 10 lần.
+- question: Trong một chiếc hộp có 5 quả bóng màu đỏ, không có quả bóng màu xanh. Lấy ngẫu nhiên 1 quả bóng. Khả năng nào sau đây là đúng?
+  answer: Chắc chắn lấy được bóng đỏ.
+  choices:
+  - Có thể lấy được bóng xanh.
+  - Chắc chắn lấy được bóng đỏ.
+  - Chắc chắn lấy được bóng xanh.
+  - Không thể lấy được bóng đỏ.
+  hint: Vì trong hộp chỉ có toàn bóng đỏ nên không thể xảy ra trường hợp lấy được màu khác.
+- question: Số liền trước của số 50 000 là số nào?
+  answer: 49 999
+  choices:
+  - 50 001
+  - 49 000
+  - 49 990
+  - 49 999
+  hint: Muốn tìm số liền trước, ta lấy số đó trừ đi 1.
+- question: Mẹ mua 1 kg đường, mẹ đã dùng hết 400 g để làm bánh. Hỏi mẹ còn lại bao nhiêu gam đường?
+  answer: 600 g
+  choices:
+  - 400 g
+  - 500 g
+  - 600 g
+  - 1400 g
+  hint: Đổi 1 kg = 1000 g, sau đó làm phép tính trừ 1000 - 400.
+- question: Một hình vuông có chu vi là 24 cm. Cạnh của hình vuông đó dài bao nhiêu?
+  answer: 6 cm
+  choices:
+  - 4 cm
+  - 6 cm
+  - 8 cm
+  - 12 cm
+  hint: Chu vi hình vuông bằng cạnh nhân 4. Vậy muốn tìm cạnh, ta lấy chu vi chia cho 4.
+- question: Số 'Mười lăm nghìn không trăm hai mươi' được viết là?
+  answer: 15 020
+  choices:
+  - 15 200
+  - 15 002
+  - 10 520
+  - 15 020
+  hint: Hàng nghìn là 15, hàng trăm là 0, hàng chục là 2, hàng đơn vị là 0.
+- question: Tìm x, biết x - 1 234 = 5 678
+  answer: 6 912
+  choices:
+  - 4 444
+  - 6 812
+  - 6 912
+  - 6 902
+  hint: Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.
+- question: Đồng hồ chỉ 8 giờ kém 15 phút. Hỏi lúc đó là mấy giờ mấy phút?
+  answer: 7 giờ 45 phút
+  choices:
+  - 8 giờ 15 phút
+  - 7 giờ 45 phút
+  - 8 giờ 45 phút
+  - 7 giờ 15 phút
+  hint: 8 giờ kém 15 phút tức là còn 15 phút nữa mới đến 8 giờ. Lấy 60 trừ đi 15.
+- question: Một hình chữ nhật có chiều dài 10 cm, chiều rộng 6 cm. Diện tích hình chữ nhật đó là bao nhiêu?
+  answer: 60 cm2
+  choices:
+  - 16 cm2
+  - 32 cm2
+  - 60 cm2
+  - 160 cm2
+  hint: Diện tích hình chữ nhật bằng chiều dài nhân với chiều rộng.
+- question: Giá trị của chữ số 8 trong số 58 342 là bao nhiêu?
+  answer: 8000
+  choices:
+  - 8
+  - 80
+  - 800
+  - 8000
+  hint: Chữ số 8 nằm ở hàng nghìn nên có giá trị là 8 nghìn.
+- question: Bạn Hoa có 3 tờ tiền mệnh giá 10 000 đồng và 1 tờ 5 000 đồng. Tổng số tiền Hoa có là bao nhiêu?
+  answer: 35 000 đồng
+  choices:
+  - 15 000 đồng
+  - 25 000 đồng
+  - 35 000 đồng
+  - 45 000 đồng
+  hint: Tính (3 x 10 000) + 5 000.
+- question: Có 48 học sinh xếp đều thành 6 hàng. Hỏi 3 hàng như thế có bao nhiêu học sinh?
+  answer: 24 học sinh
+  choices:
+  - 8 học sinh
+  - 16 học sinh
+  - 24 học sinh
+  - 32 học sinh
+  hint: "Đây là bài toán rút về đơn vị. Tính số học sinh 1 hàng (48 : 6), rồi nhân với 3."
+- question: Phân số 1/4 của 100 kg là bao nhiêu?
+  answer: 25 kg
+  choices:
+  - 20 kg
+  - 25 kg
+  - 40 kg
+  - 50 kg
+  hint: Lấy 100 chia cho 4.
+- question: Lập số lớn nhất có 4 chữ số khác nhau từ các chữ số 0, 3, 5, 8.
+  answer: 8 530
+  choices:
+  - 8 503
+  - 8 350
+  - 8 053
+  - 8 530
+  hint: Để được số lớn nhất, ta xếp các chữ số theo thứ tự giảm dần từ trái qua phải.
+- question: "Phép chia 49 : 6 có số dư là bao nhiêu?"
+  answer: 1
+  choices:
+  - 1
+  - 2
+  - 3
+  - 4
+  hint: Nhẩm 6 x 8 = 48. Lấy 49 - 48 = 1.
+- question: Số La Mã XIV tương ứng với số nào trong hệ thập phân?
+  answer: 14
+  choices:
+  - 11
+  - 14
+  - 15
+  - 16
+  hint: X là 10, IV là 4. Tổng là 10 + 4.
+- question: Gấp số 12 lên 5 lần, sau đó bớt đi 10 ta được kết quả là bao nhiêu?
+  answer: 50
+  choices:
+  - 60
+  - 50
+  - 40
+  - 70
+  hint: Gấp lên 5 lần là phép nhân (12 x 5 = 60), bớt đi là phép trừ (60 - 10).
+- question: Điểm M là trung điểm của đoạn thẳng CD. Biết CM = 4 cm. Độ dài đoạn thẳng CD là bao nhiêu?
+  answer: 8 cm
+  choices:
+  - 2 cm
+  - 4 cm
+  - 6 cm
+  - 8 cm
+  hint: Trung điểm chia đoạn thẳng làm hai phần bằng nhau. Chiều dài cả đoạn bằng 2 lần chiều dài một nửa.
+- question: Đổi 3 km 50 m = ... m. Số cần điền vào chỗ chấm là?
+  answer: 3050
+  choices:
+  - 350
+  - 3050
+  - 3500
+  - 3005
+  hint: 1 km = 1000 m. Vậy 3 km = 3000 m. Cộng thêm 50 m.
+- question: Hôm nay là Thứ Ba ngày 12. Hỏi Thứ Ba tuần sau là ngày mấy?
+  answer: Ngày 19
+  choices:
+  - Ngày 18
+  - Ngày 19
+  - Ngày 20
+  - Ngày 21
+  hint: Mỗi tuần có 7 ngày. Lấy 12 cộng thêm 7.
+- question: Hình chữ nhật có mấy góc vuông?
+  answer: 4
+  choices:
+  - 2
+  - 3
+  - 4
+  - 0
+  hint: Hình chữ nhật có 4 đỉnh và tại mỗi đỉnh đều tạo thành một góc vuông.
+- question: Nhiệt độ của nước đang sôi là khoảng bao nhiêu độ C?
+  answer: 100 độ C
+  choices:
+  - 0 độ C
+  - 37 độ C
+  - 50 độ C
+  - 100 độ C
+  hint: Nước đá đông đặc ở 0 độ C và nước sôi ở 100 độ C.
+- question: "Tìm x, biết x : 8 = 105 (dư 4)"
+  answer: 844
+  choices:
+  - 840
+  - 844
+  - 848
+  - 117
+  hint: Số bị chia = Thương x Số chia + Số dư. (105 x 8 + 4).
+- question: Quy luật của dãy số: 1, 4, 9, 16, 25, ... Số tiếp theo là số nào?
+  answer: 36
+  choices:
+  - 30
+  - 34
+  - 35
+  - 36
+  hint: Đây là dãy số của bình phương: 1x1=1, 2x2=4, 3x3=9, 4x4=16, 5x5=25. Tiếp theo là 6x6.
+- question: Năm nhuận có bao nhiêu ngày?
+  answer: 366 ngày
+  choices:
+  - 365 ngày
+  - 366 ngày
+  - 360 ngày
+  - 300 ngày
+  hint: Năm thường có 365 ngày, năm nhuận có thêm 1 ngày ở tháng 2 nên có 366 ngày.
+- question: Nếu ngày 1 tháng 6 là ngày thứ Sáu, thì ngày 8 tháng 6 là ngày thứ mấy?
+  answer: Thứ Sáu
+  choices:
+  - Thứ Năm
+  - Thứ Sáu
+  - Thứ Bảy
+  - Chủ Nhật
+  hint: Hai ngày cùng một thứ trong các tuần liên tiếp cách nhau đúng 7 ngày (1 + 7 = 8).
+- question: 1000 ml bằng bao nhiêu lít?
+  answer: 1 lít
+  choices:
+  - 1 lít
+  - 10 lít
+  - 100 lít
+  - 1000 lít
+  hint: Lít là đơn vị đo dung tích lớn hơn mi-li-lít (ml) 1000 lần.

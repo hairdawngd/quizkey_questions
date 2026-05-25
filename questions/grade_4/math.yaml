@@ -1,0 +1,81 @@
+questions:
+- question: 'Lớp 4: 12 + 8 = ?'
+  answer: '20'
+  choices:
+  - '18'
+  - '19'
+  - '20'
+  - '21'
+  hint: Thực hiện phép cộng từng bước.
+- question: 'Lớp 4: 55 - 9 = ?'
+  answer: '46'
+  choices:
+  - '44'
+  - '45'
+  - '46'
+  - '47'
+  hint: Lấy số lớn trừ số nhỏ.
+- question: 'Lớp 4: 6 x 5 = ?'
+  answer: '30'
+  choices:
+  - '28'
+  - '29'
+  - '30'
+  - '31'
+  hint: Nhân hai số tự nhiên.
+- question: Số chẵn liền sau 12 là số nào?
+  answer: '14'
+  choices:
+  - '12'
+  - '13'
+  - '14'
+  - '16'
+  hint: Số chẵn cách nhau 2 đơn vị.
+- question: 4/5 là phân số có tử số là bao nhiêu?
+  answer: '4'
+  choices:
+  - '4'
+  - '5'
+  - '1'
+  - '0'
+  hint: Tử số nằm trên gạch phân số.
+- question: Chu vi hình vuông cạnh 7 cm là bao nhiêu?
+  answer: '28'
+  choices:
+  - '14'
+  - '21'
+  - '28'
+  - '35'
+  hint: Chu vi hình vuông = cạnh x 4.
+- question: Diện tích hình chữ nhật dài 9 cm, rộng 6 cm là bao nhiêu?
+  answer: '54'
+  choices:
+  - '15'
+  - '54'
+  - '18'
+  - '12'
+  hint: Diện tích = dài x rộng.
+- question: Làm tròn số 446 đến hàng chục được số nào?
+  answer: '450'
+  choices:
+  - '440'
+  - '450'
+  - '460'
+  - '446'
+  hint: Chữ số hàng đơn vị là 6 nên làm tròn lên.
+- question: Tỉ số 1:5 nghĩa là 1 phần trên tổng mấy phần bằng nhau?
+  answer: '5'
+  choices:
+  - '4'
+  - '5'
+  - '6'
+  - '1'
+  hint: Số sau dấu hai chấm cho biết số phần so sánh.
+- question: Nếu x + 8 = 24, x bằng bao nhiêu?
+  answer: '16'
+  choices:
+  - '14'
+  - '15'
+  - '16'
+  - '17'
+  hint: Muốn tìm x, lấy tổng trừ số hạng đã biết.

@@ -1,0 +1,81 @@
+questions:
+- question: Âm thanh lớn gọi là gì?
+  answer: To
+  choices:
+  - To
+  - Nhỏ
+  - Im lặng
+  - Chậm
+  hint: Trái với nhỏ.
+- question: Bài 'Kìa con bướm vàng' nói về con gì?
+  answer: Con bướm
+  choices:
+  - Con mèo
+  - Con bướm
+  - Con cá
+  - Con gà
+  hint: Tên bài hát có chữ bướm.
+- question: Dụng cụ nào dùng để gõ nhịp?
+  answer: Trống
+  choices:
+  - Trống
+  - Bút
+  - Thước
+  - Ghế
+  hint: Trống phát ra tiếng khi gõ.
+- question: Khi hát ta dùng bộ phận nào?
+  answer: Miệng
+  choices:
+  - Chân
+  - Miệng
+  - Tai
+  - Tay
+  hint: Ta hát bằng miệng.
+- question: Âm thanh nhỏ trái nghĩa với gì?
+  answer: To
+  choices:
+  - Nhanh
+  - To
+  - Cao
+  - Thấp
+  hint: Nhỏ trái với to.
+- question: Tiếng chim hót nghe như thế nào?
+  answer: Líu lo
+  choices:
+  - Ầm ầm
+  - Líu lo
+  - Cộc cộc
+  - Rầm rầm
+  hint: Chim thường hót líu lo.
+- question: Khi nghe nhạc vui, em có thể làm gì?
+  answer: Vỗ tay
+  choices:
+  - Vỗ tay
+  - Khóc
+  - Ngủ ngay
+  - Bỏ chạy
+  hint: Vỗ tay theo nhịp.
+- question: Nhạc nhanh làm ta muốn làm gì?
+  answer: Nhún nhảy
+  choices:
+  - Nhún nhảy
+  - Đứng im
+  - Ngủ
+  - Khóc
+  hint: Nhạc nhanh thường vui.
+- question: Dụng cụ nào có dây để gảy?
+  answer: Đàn ghi-ta
+  choices:
+  - Trống
+  - Đàn ghi-ta
+  - Kèn
+  - Sáo
+  hint: Ghi-ta có dây.
+- question: Khi hát tập thể, cần hát như thế nào?
+  answer: Đúng nhịp
+  choices:
+  - La hét
+  - Đúng nhịp
+  - Quay lưng
+  - Nói chuyện
+  hint: Hát cùng nhau cần đúng nhịp.

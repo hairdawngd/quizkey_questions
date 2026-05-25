@@ -1,0 +1,81 @@
+questions:
+- question: 'Lớp 8: 24 + 12 = ?'
+  answer: '36'
+  choices:
+  - '34'
+  - '35'
+  - '36'
+  - '37'
+  hint: Thực hiện phép cộng từng bước.
+- question: 'Lớp 8: 95 - 13 = ?'
+  answer: '82'
+  choices:
+  - '80'
+  - '81'
+  - '82'
+  - '83'
+  hint: Lấy số lớn trừ số nhỏ.
+- question: 'Lớp 8: 10 x 9 = ?'
+  answer: '90'
+  choices:
+  - '88'
+  - '89'
+  - '90'
+  - '91'
+  hint: Nhân hai số tự nhiên.
+- question: Số chẵn liền sau 20 là số nào?
+  answer: '22'
+  choices:
+  - '20'
+  - '21'
+  - '22'
+  - '24'
+  hint: Số chẵn cách nhau 2 đơn vị.
+- question: 8/9 là phân số có tử số là bao nhiêu?
+  answer: '8'
+  choices:
+  - '8'
+  - '9'
+  - '1'
+  - '0'
+  hint: Tử số nằm trên gạch phân số.
+- question: Chu vi hình vuông cạnh 11 cm là bao nhiêu?
+  answer: '44'
+  choices:
+  - '22'
+  - '33'
+  - '44'
+  - '55'
+  hint: Chu vi hình vuông = cạnh x 4.
+- question: Diện tích hình chữ nhật dài 13 cm, rộng 10 cm là bao nhiêu?
+  answer: '130'
+  choices:
+  - '23'
+  - '130'
+  - '26'
+  - '20'
+  hint: Diện tích = dài x rộng.
+- question: Làm tròn số 846 đến hàng chục được số nào?
+  answer: '850'
+  choices:
+  - '840'
+  - '850'
+  - '860'
+  - '846'
+  hint: Chữ số hàng đơn vị là 6 nên làm tròn lên.
+- question: Tỉ số 1:9 nghĩa là 1 phần trên tổng mấy phần bằng nhau?
+  answer: '9'
+  choices:
+  - '8'
+  - '9'
+  - '10'
+  - '1'
+  hint: Số sau dấu hai chấm cho biết số phần so sánh.
+- question: Nếu x + 12 = 36, x bằng bao nhiêu?
+  answer: '24'
+  choices:
+  - '22'
+  - '23'
+  - '24'
+  - '25'
+  hint: Muốn tìm x, lấy tổng trừ số hạng đã biết.

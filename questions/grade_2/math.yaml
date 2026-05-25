@@ -1,0 +1,81 @@
+questions:
+- question: 'Lớp 2: 6 + 6 = ?'
+  answer: '12'
+  choices:
+  - '10'
+  - '11'
+  - '12'
+  - '13'
+  hint: Thực hiện phép cộng từng bước.
+- question: 'Lớp 2: 35 - 7 = ?'
+  answer: '28'
+  choices:
+  - '26'
+  - '27'
+  - '28'
+  - '29'
+  hint: Lấy số lớn trừ số nhỏ.
+- question: 'Lớp 2: 4 x 3 = ?'
+  answer: '12'
+  choices:
+  - '10'
+  - '11'
+  - '12'
+  - '13'
+  hint: Nhân hai số tự nhiên.
+- question: Số chẵn liền sau 8 là số nào?
+  answer: '10'
+  choices:
+  - '8'
+  - '9'
+  - '10'
+  - '12'
+  hint: Số chẵn cách nhau 2 đơn vị.
+- question: 7 + 2 = ?
+  answer: '9'
+  choices:
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  hint: Cộng thêm 2.
+- question: Chu vi hình vuông cạnh 5 cm là bao nhiêu?
+  answer: '20'
+  choices:
+  - '10'
+  - '15'
+  - '20'
+  - '25'
+  hint: Chu vi hình vuông = cạnh x 4.
+- question: Diện tích hình chữ nhật dài 7 cm, rộng 4 cm là bao nhiêu?
+  answer: '28'
+  choices:
+  - '11'
+  - '28'
+  - '14'
+  - '8'
+  hint: Diện tích = dài x rộng.
+- question: Làm tròn số 246 đến hàng chục được số nào?
+  answer: '250'
+  choices:
+  - '240'
+  - '250'
+  - '260'
+  - '246'
+  hint: Chữ số hàng đơn vị là 6 nên làm tròn lên.
+- question: Số nào bé hơn 6?
+  answer: '5'
+  choices:
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  hint: Số bé hơn đứng trước.
+- question: Nếu x + 6 = 18, x bằng bao nhiêu?
+  answer: '12'
+  choices:
+  - '10'
+  - '11'
+  - '12'
+  - '13'
+  hint: Muốn tìm x, lấy tổng trừ số hạng đã biết.

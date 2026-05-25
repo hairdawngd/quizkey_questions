@@ -1,0 +1,481 @@
+questions:
+- question: Bộ phận nào của cây làm nhiệm vụ hút nước và chất khoáng có trong đất để nuôi cây?
+  answer: Rễ cây
+  choices:
+  - Rễ cây
+  - Thân cây
+  - Lá cây
+  - Hoa
+  hint: Bộ phận này thường cắm sâu dưới lòng đất, giúp cây đứng vững.
+- question: Côn trùng (sâu bọ) thường có bao nhiêu chân?
+  answer: 6 chân
+  choices:
+  - 2 chân
+  - 4 chân
+  - 6 chân
+  - 8 chân
+  hint: Các loài như kiến, ong, ruồi, muỗi đều có số lượng chân này.
+- question: Nước trong tự nhiên có những tính chất nào sau đây?
+  answer: Không màu, không mùi, không vị
+  choices:
+  - Có màu trắng, có mùi thơm, có vị ngọt
+  - Không màu, không mùi, không vị
+  - Có màu trong suốt, có vị mặn
+  - Không màu, có mùi hắc, không vị
+  hint: Nước sạch tinh khiết thì mắt không thấy màu, mũi không ngửi thấy mùi và lưỡi không thấy vị.
+- question: Mặt Trời thường mọc ở hướng nào?
+  answer: Hướng Đông
+  choices:
+  - Hướng Tây
+  - Hướng Nam
+  - Hướng Bắc
+  - Hướng Đông
+  hint: Vào buổi sáng sớm, ta thường thấy Mặt Trời xuất hiện ở hướng này.
+- question: Trái Đất của chúng ta có hình gì?
+  answer: Hình cầu
+  choices:
+  - Hình vuông
+  - Hình chữ nhật
+  - Hình cầu
+  - Hình tam giác
+  hint: Trái Đất tròn giống như một quả bóng khổng lồ.
+- question: Loài vật nào sau đây đẻ con và nuôi con bằng sữa?
+  answer: Con mèo
+  choices:
+  - Con gà
+  - Con mèo
+  - Con ếch
+  - Con cá
+  hint: Đây là loài động vật thuộc lớp Thú, thường được nuôi để bắt chuột.
+- question: Để phòng tránh bệnh sâu răng, chúng ta nên làm gì?
+  answer: Đánh răng ít nhất 2 lần mỗi ngày
+  choices:
+  - Ăn thật nhiều bánh kẹo trước khi đi ngủ
+  - Đánh răng ít nhất 2 lần mỗi ngày
+  - Uống nhiều nước ngọt có gas
+  - Chỉ súc miệng bằng nước lã
+  hint: Việc làm sạch răng miệng vào buổi sáng khi thức dậy và buổi tối trước khi đi ngủ là rất quan trọng.
+- question: Cơ quan tuần hoàn trong cơ thể người có bộ phận quan trọng nhất là gì, làm nhiệm vụ bơm máu đi khắp cơ thể?
+  answer: Tim
+  choices:
+  - Phổi
+  - Dạ dày
+  - Tim
+  - Não
+  hint: Bộ phận này nằm ở lồng ngực bên trái, đập liên tục không ngừng nghỉ.
+- question: Khi đi ngoài đường gặp trời mưa to, sấm sét, em KHÔNG NÊN làm gì?
+  answer: Trú mưa dưới gốc cây to
+  choices:
+  - Tìm chỗ trú an toàn trong nhà
+  - Mặc áo mưa cẩn thận
+  - Trú mưa dưới gốc cây to
+  - Hạn chế sử dụng điện thoại ngoài trời
+  hint: Sét thường đánh vào những vật thể cao lớn, đứng đơn độc như cây cối.
+- question: Lá cây thường có màu gì và giúp cây làm nhiệm vụ gì?
+  answer: Màu xanh lục, giúp cây quang hợp và hô hấp
+  choices:
+  - Màu vàng, giúp cây hút nước
+  - Màu đỏ, giúp cây đẻ nhánh
+  - Màu xanh lục, giúp cây quang hợp và hô hấp
+  - Màu đen, giúp cây ra hoa
+  hint: Nhờ có ánh sáng mặt trời, lá cây tạo ra chất dinh dưỡng nuôi cây.
+- question: Bộ phận nào của cơ thể người giúp chúng ta nhận biết được mùi vị của thức ăn?
+  answer: Lưỡi
+  choices:
+  - Mắt
+  - Mũi
+  - Lưỡi
+  - Tai
+  hint: Cơ quan vị giác nằm trong khoang miệng.
+- question: Con vật nào dưới đây vừa có thể sống dưới nước, vừa có thể sống trên cạn?
+  answer: Con ếch
+  choices:
+  - Con cá chép
+  - Con ếch
+  - Con khỉ
+  - Con gà
+  hint: Loài vật này có bốn chân, kêu ộp ộp và thuộc lớp lưỡng cư.
+- question: Bữa ăn sáng có quan trọng không?
+  answer: Rất quan trọng, cung cấp năng lượng cho cả ngày
+  choices:
+  - Không quan trọng, có thể nhịn
+  - Rất quan trọng, cung cấp năng lượng cho cả ngày
+  - Chỉ quan trọng với người lớn
+  - Chỉ cần uống nước là đủ
+  hint: Bữa sáng giúp nạp lại năng lượng sau một đêm dài cơ thể nghỉ ngơi.
+- question: Cơ quan hô hấp giúp cơ thể chúng ta làm gì?
+  answer: Lấy khí ô-xy và thải khí các-bô-níc
+  choices:
+  - Tiêu hóa thức ăn
+  - Lấy khí ô-xy và thải khí các-bô-níc
+  - Bơm máu đi khắp cơ thể
+  - Nhận biết các màu sắc
+  hint: Hoạt động hít vào, thở ra thông qua mũi và phổi.
+- question: Nước đá ở trong tủ lạnh đang ở thể (trạng thái) nào?
+  answer: Thể rắn
+  choices:
+  - Thể lỏng
+  - Thể khí
+  - Thể rắn
+  - Thể hơi
+  hint: Khi nước đông đá, nó trở nên cứng và giữ nguyên hình dạng.
+- question: Khi muốn qua đường ở nơi có tín hiệu đèn giao thông, em phải chờ đèn màu gì bật sáng dành cho người đi bộ?
+  answer: Màu xanh
+  choices:
+  - Màu đỏ
+  - Màu vàng
+  - Màu xanh
+  - Màu cam
+  hint: Màu sắc này biểu thị sự an toàn và cho phép di chuyển.
+- question: Hành động nào sau đây giúp giữ gìn vệ sinh môi trường xung quanh trường học?
+  answer: Bỏ rác đúng nơi quy định
+  choices:
+  - Bỏ rác đúng nơi quy định
+  - Bứt lá, bẻ cành cây
+  - Vứt rác bừa bãi ra sân trường
+  - Vẽ bậy lên tường lớp học
+  hint: Rác thải cần được thu gom vào thùng rác để trường lớp luôn sạch đẹp.
+- question: Cây nào sau đây thường được trồng để lấy quả ăn?
+  answer: Cây xoài
+  choices:
+  - Cây hoa hồng
+  - Cây xoài
+  - Cây bàng
+  - Cây xương rồng
+  hint: Loại quả này có vỏ màu xanh hoặc vàng, vị chua ngọt rất ngon.
+- question: Việc làm nào dưới đây có thể gây ra hỏa hoạn (cháy)?
+  answer: Nghịch diêm, bật lửa gần các vật dễ cháy
+  choices:
+  - Tắt quạt khi ra khỏi phòng
+  - Rút phích cắm bàn là (bàn ủi) khi dùng xong
+  - Nghịch diêm, bật lửa gần các vật dễ cháy
+  - Để các đồ vật gọn gàng ngăn nắp
+  hint: Lửa rất nguy hiểm, trẻ em tuyệt đối không nên chơi đùa với nguồn tạo lửa.
+- question: Chim cánh cụt thường sống ở khu vực nào trên Trái Đất?
+  answer: Vùng băng tuyết giá lạnh (Nam Cực)
+  choices:
+  - Sa mạc nóng bức
+  - Rừng rậm nhiệt đới
+  - Vùng băng tuyết giá lạnh (Nam Cực)
+  - Thảo nguyên xanh
+  hint: Loài chim này không biết bay nhưng bơi rất giỏi, chịu được cái lạnh thấu xương.
+- question: Bầu trời ban đêm khi không có mây, ta thường nhìn thấy gì?
+  answer: Mặt trăng và các vì sao
+  choices:
+  - Mặt trời và các vì sao
+  - Mặt trăng và các vì sao
+  - Cầu vồng
+  - Mây đen
+  hint: Mặt trời chỉ xuất hiện và chiếu sáng vào ban ngày.
+- question: Cơ quan nào giúp nâng đỡ cơ thể và bảo vệ các bộ phận bên trong như não, tim, phổi?
+  answer: Bộ xương
+  choices:
+  - Cơ quan tuần hoàn
+  - Bộ xương
+  - Cơ quan tiêu hóa
+  - Hệ thần kinh
+  hint: Nó rất cứng cáp, gồm nhiều đoạn xương nối lại với nhau bằng các khớp.
+- question: Thân cây thường có chức năng chính là gì?
+  answer: Vận chuyển nhựa cây và nâng đỡ tán lá
+  choices:
+  - Hút nước từ đất
+  - Vận chuyển nhựa cây và nâng đỡ tán lá
+  - Hấp thụ ánh sáng mặt trời
+  - Sinh sản đẻ ra cây con
+  hint: Bộ phận này nối liền giữa rễ dưới đất và cành, lá ở trên cao.
+- question: Loài vật nào sau đây di chuyển bằng cách trườn, bò và không có chân?
+  answer: Con rắn
+  choices:
+  - Con ếch
+  - Con rắn
+  - Con thỏ
+  - Con thằn lằn
+  hint: Loài vật này có thân hình thon dài, thường hay lè lưỡi.
+- question: Trước khi ăn và sau khi đi vệ sinh, chúng ta cần làm gì để bảo vệ sức khỏe?
+  answer: Rửa tay bằng xà phòng
+  choices:
+  - Rửa tay bằng xà phòng
+  - Đi ngủ ngay
+  - Uống thật nhiều nước ngọt
+  - Xem tivi
+  hint: Việc này giúp tiêu diệt vi khuẩn bám trên tay, tránh đưa mầm bệnh vào miệng.
+- question: Có mấy phương hướng chính trên Trái Đất mà chúng ta thường dùng để xác định phương hướng?
+  answer: 4 hướng
+  choices:
+  - 2 hướng
+  - 3 hướng
+  - 4 hướng
+  - 6 hướng
+  hint: Đó là các hướng Đông, Tây, Nam, Bắc.
+- question: Cá thở ở dưới nước bằng bộ phận nào?
+  answer: Bằng mang
+  choices:
+  - Bằng phổi
+  - Bằng mũi
+  - Bằng mang
+  - Bằng da
+  hint: Bộ phận này nằm ở hai bên đầu của cá, dưới lớp vây và thường có màu đỏ tươi.
+- question: Đa số các loài cây thường mọc lên từ bộ phận nào?
+  answer: Hạt
+  choices:
+  - Rễ
+  - Lá
+  - Hạt
+  - Cành
+  hint: Khi gieo bộ phận này xuống đất ẩm, nó sẽ hút nước và nảy mầm thành cây con.
+- question: Dạ dày thuộc cơ quan nào trong cơ thể chúng ta?
+  answer: Cơ quan tiêu hóa
+  choices:
+  - Cơ quan hô hấp
+  - Cơ quan tiêu hóa
+  - Cơ quan tuần hoàn
+  - Cơ quan bài tiết
+  hint: Đây là nơi co bóp và nhào trộn thức ăn mà chúng ta nhai và nuốt vào.
+- question: Khi bị bỏng nước sôi, việc ĐẦU TIÊN em nên làm là gì?
+  answer: Ngâm phần bị bỏng vào nước sạch mát khoảng 15-20 phút
+  choices:
+  - Bôi kem đánh răng lên vết bỏng ngay lập tức
+  - Chườm đá lạnh buốt trực tiếp lên da
+  - Ngâm phần bị bỏng vào nước sạch mát khoảng 15-20 phút
+  - Dùng kim chọc vỡ bọng nước
+  hint: Nước mát sẽ giúp hạ nhiệt độ bề mặt da ngay lập tức và làm bớt cảm giác đau rát.
+- question: Nguồn nước nào dưới đây có thể dùng làm nước uống an toàn nếu được đun sôi?
+  answer: Nước giếng, nước máy đã lọc sạch
+  choices:
+  - Nước biển
+  - Nước giếng, nước máy đã lọc sạch
+  - Nước cống thải
+  - Nước ao tù
+  hint: Nước uống cần phải trong, sạch, không có vi khuẩn, chất độc hay mặn chát.
+- question: Hươu cao cổ là loài động vật thức ăn chủ yếu của chúng là gì?
+  answer: Ăn lá cây
+  choices:
+  - Ăn thịt
+  - Ăn lá cây
+  - Ăn cá
+  - Ăn côn trùng
+  hint: Chúng dùng chiếc cổ rất dài của mình để với tới tán lá trên những cành cây cao.
+- question: Hiện tượng ngày và đêm trên Trái Đất luân phiên xảy ra là do đâu?
+  answer: Do Trái Đất tự quay quanh mình nó
+  choices:
+  - Do Mặt Trăng che khuất Mặt Trời
+  - Do Trái Đất tự quay quanh mình nó
+  - Do mây bay che lấp ánh sáng
+  - Do Trái Đất phình to ra
+  hint: Phần của Trái Đất hướng về Mặt Trời sẽ là ban ngày, phần khuất ánh sáng là ban đêm.
+- question: Mắt (Cơ quan thị giác) giúp chúng ta làm gì?
+  answer: Nhìn thấy hình dáng và màu sắc của sự vật
+  choices:
+  - Nghe âm thanh
+  - Ngửi mùi hương
+  - Nhìn thấy hình dáng và màu sắc của sự vật
+  - Cảm nhận được sự nóng lạnh
+  hint: Nhờ có bộ phận này mà chúng ta có thể đọc sách, ngắm cảnh hay xem phim.
+- question: Số điện thoại khẩn cấp gọi Cảnh sát Phòng cháy chữa cháy (cứu hỏa) ở Việt Nam là số nào?
+  answer: 114
+  choices:
+  - 113
+  - 114
+  - 115
+  - 112
+  hint: Số 113 là gọi cảnh sát (công an), 115 là gọi cấp cứu y tế.
+- question: Lớp cơ (thịt) bao bọc quanh bộ xương người có tác dụng chính là gì?
+  answer: Giúp cơ thể di chuyển và tạo ra các cử động
+  choices:
+  - Giúp cơ thể di chuyển và tạo ra các cử động
+  - Bơm máu đi nuôi cơ thể
+  - Lấy không khí vào phổi
+  - Tiêu hóa thức ăn
+  hint: Khi chúng ta co tay, duỗi chân thì bộ phận này sẽ co lại hoặc giãn ra để kéo theo xương.
+- question: Môi trường sống của loài giun đất là ở đâu?
+  answer: Dưới lòng đất ẩm ướt
+  choices:
+  - Trên cành cây cao
+  - Dưới lòng đất ẩm ướt
+  - Dưới đại dương sâu
+  - Bay trên bầu trời
+  hint: Loài vật này thường làm tơi xốp đất và ngoi lên mặt đất sau những cơn mưa lớn.
+- question: Bộ phận nào được coi là cơ quan trung ương điều khiển mọi hoạt động và suy nghĩ của con người?
+  answer: Não bộ
+  choices:
+  - Não bộ
+  - Trái tim
+  - Lá phổi
+  - Dạ dày
+  hint: Cơ quan này nằm an toàn bên trong hộp sọ của chúng ta.
+- question: Cây nào sau đây thường được trồng để lấy bóng mát ở sân trường?
+  answer: Cây bàng
+  choices:
+  - Cây lúa
+  - Cây xà lách
+  - Cây bàng
+  - Cây hoa hồng
+  hint: Cây này có tán lá rất rộng, lá to, vào mùa đông lá thường chuyển sang màu đỏ rực rồi rụng xuống.
+- question: Một học sinh lớp 3 (8-9 tuổi) cần ngủ khoảng bao nhiêu tiếng mỗi ngày để cơ thể phát triển khỏe mạnh?
+  answer: 9 - 10 tiếng
+  choices:
+  - 4 - 5 tiếng
+  - 6 - 7 tiếng
+  - 9 - 10 tiếng
+  - 14 - 15 tiếng
+  hint: Trẻ em ở độ tuổi đi học cần thời gian ngủ nhiều hơn người lớn để phát triển chiều cao và trí não.
+- question: Bộ phận nào của cơ quan bài tiết có chức năng lọc máu để tạo thành nước tiểu?
+  answer: Hai quả thận
+  choices:
+  - Bóng đái (bàng quang)
+  - Hai quả thận
+  - Dạ dày
+  - Ống dẫn nước tiểu
+  hint: Bộ phận này có hình giống như hạt đậu đen, nằm ở vùng thắt lưng.
+- question: Mặt Trăng luôn chuyển động quay quanh thiên thể nào?
+  answer: Trái Đất
+  choices:
+  - Mặt Trời
+  - Sao Hỏa
+  - Trái Đất
+  - Sao Mộc
+  hint: Mặt Trăng là vệ tinh tự nhiên duy nhất của hành tinh chúng ta đang sống.
+- question: Cây hoa sen là loài thực vật sống ở môi trường nào?
+  answer: Sống dưới nước
+  choices:
+  - Sống trên cạn
+  - Sống dưới nước
+  - Sống bám trên thân cây khác
+  - Sống trên sa mạc
+  hint: Rễ của loài cây này cắm sâu dưới bùn trong ao, hồ.
+- question: Loài vật nào sau đây sinh sản bằng cách đẻ trứng?
+  answer: Con gà
+  choices:
+  - Con chó
+  - Con mèo
+  - Con gà
+  - Con lợn
+  hint: Loài vật này thuộc lớp chim, thường đẻ ra những quả có vỏ cứng màu trắng hoặc nâu.
+- question: Để phòng tránh tai nạn đuối nước, việc làm nào sau đây là KHÔNG an toàn?
+  answer: Rủ bạn ra ao, hồ, sông tắm khi không có người lớn
+  choices:
+  - Mặc áo phao khi đi thuyền
+  - Học bơi ở các hồ bơi có giáo viên hướng dẫn
+  - Không chơi đùa sát bờ ao, bờ hồ
+  - Rủ bạn ra ao, hồ, sông tắm khi không có người lớn
+  hint: Trẻ em tuyệt đối không được tự ý xuống nước nếu không có sự giám sát của người lớn.
+- question: Ở lứa tuổi học sinh Tiểu học, những chiếc răng sữa rụng đi sẽ được thay thế bằng loại răng gì?
+  answer: Răng vĩnh viễn
+  choices:
+  - Răng sâu
+  - Răng khôn
+  - Răng vĩnh viễn
+  - Răng nanh
+  hint: Loại răng này nếu bị nhổ đi hoặc gãy thì sẽ không bao giờ mọc lại được nữa.
+- question: Ở nước ta, khí hậu miền Bắc thường được chia làm mấy mùa rõ rệt trong năm?
+  answer: 4 mùa
+  choices:
+  - 2 mùa
+  - 3 mùa
+  - 4 mùa
+  - 6 mùa
+  hint: Các mùa đó lần lượt là Xuân, Hạ, Thu, Đông.
+- question: Con ong mang lại lợi ích gì cho con người và thiên nhiên?
+  answer: Thụ phấn cho hoa và tạo ra mật ngọt
+  choices:
+  - Bắt chuột bảo vệ mùa màng
+  - Cung cấp sức kéo
+  - Thụ phấn cho hoa và tạo ra mật ngọt
+  - Cung cấp trứng và sữa
+  hint: Loài côn trùng này rất chăm chỉ bay từ bông hoa này sang bông hoa khác.
+- question: Khi nước đun sôi và bốc khói lên cao, đó là nước đang ở thể (trạng thái) nào?
+  answer: Thể khí (thể hơi)
+  choices:
+  - Thể lỏng
+  - Thể rắn
+  - Thể khí (thể hơi)
+  - Thể đá
+  hint: Lúc này nước không thể cầm nắm được và bay lơ lửng trong không khí.
+- question: Trong cơ quan tiêu hóa của con người, bộ phận nào có chức năng chính là hấp thụ các chất dinh dưỡng để nuôi cơ thể?
+  answer: Ruột non
+  choices:
+  - Ruột già
+  - Dạ dày
+  - Thực quản
+  - Ruột non
+  hint: Đây là một đoạn ruột rất dài, cuộn lại nhiều vòng trong bụng chúng ta.
+- question: Tàu hỏa (xe lửa) là phương tiện giao thông di chuyển trên loại đường nào?
+  answer: Đường sắt
+  choices:
+  - Đường bộ
+  - Đường thủy
+  - Đường sắt
+  - Đường hàng không
+  hint: Nó có các toa nối dài và chạy trên hai thanh kim loại song song.
+- question: Việc trồng nhiều cây xanh mang lại lợi ích lớn nhất nào cho môi trường?
+  answer: Cung cấp khí ô-xy, làm sạch không khí và tỏa bóng mát
+  choices:
+  - Làm cạn kiệt nguồn nước ngầm
+  - Cung cấp khí ô-xy, làm sạch không khí và tỏa bóng mát
+  - Gây ra nhiều rác thải từ lá cây
+  - Che mất ánh sáng Mặt Trời của con người
+  hint: Cây xanh được ví như "lá phổi" của Trái Đất.
+- question: Mặt Trời cung cấp cho Trái Đất nguồn năng lượng chính nào?
+  answer: Nguồn sáng và nguồn nhiệt
+  choices:
+  - Khí ô-xy và nước
+  - Nguồn sáng và nguồn nhiệt
+  - Đất đai và khoáng sản
+  - Gió và mây
+  hint: Nhờ có Mặt Trời, Trái Đất mới có ánh sáng vào ban ngày và luôn được sưởi ấm.
+- question: Loài vật nào sau đây là động vật nuôi trong nhà (gia súc) để lấy thịt hoặc sức kéo?
+  answer: Con trâu
+  choices:
+  - Con hổ
+  - Con hươu cao cổ
+  - Con trâu
+  - Con voi rừng
+  hint: Loài vật này có đôi sừng cong, thường giúp nhà nông cày bừa.
+- question: Vào ban ngày khi có ánh sáng Mặt Trời, thực vật thải ra loại khí nào giúp con người và động vật hô hấp?
+  answer: Khí Ô-xy
+  choices:
+  - Khí Các-bô-níc
+  - Khí Ô-xy
+  - Khí Ni-tơ
+  - Hơi nước độc
+  hint: Đây là chất khí không thể thiếu để duy trì sự sống của chúng ta.
+- question: Rễ của cây hành lá hoặc cây lúa thuộc loại rễ gì?
+  answer: Rễ chùm
+  choices:
+  - Rễ cọc
+  - Rễ chùm
+  - Rễ củ
+  - Rễ phụ
+  hint: Rễ của chúng mọc tỏa ra thành từng chùm nhỏ từ gốc cây, không có một rễ chính nào to hẳn.
+- question: Khi em ở nhà một mình và có người lạ gõ cửa xin vào nhà, em nên làm gì?
+  answer: Tuyệt đối không mở cửa và gọi điện báo cho bố mẹ
+  choices:
+  - Mở cửa ngay lập tức vì đó có thể là khách
+  - Mở hé cửa để nói chuyện xem họ là ai
+  - Tuyệt đối không mở cửa và gọi điện báo cho bố mẹ
+  - Ra mặt quát mắng người lạ
+  hint: Kẻ gian thường lợi dụng lúc trẻ em ở nhà một mình để đóng giả người quen.
+- question: Nhóm thực phẩm nào sau đây cung cấp nhiều vi-ta-min và chất khoáng nhất cho cơ thể?
+  answer: Rau xanh và trái cây tươi
+  choices:
+  - Thịt bò, cá, trứng
+  - Cơm, gạo, bánh mì
+  - Rau xanh và trái cây tươi
+  - Dầu ăn, mỡ động vật
+  hint: Ăn nhiều nhóm thực phẩm này giúp da dẻ hồng hào, mắt sáng và tăng sức đề kháng.
+- question: Trái Đất quay trọn vẹn một vòng quanh Mặt Trời mất thời gian bao lâu?
+  answer: 1 năm (khoảng 365 ngày)
+  choices:
+  - 1 ngày (24 giờ)
+  - 1 tháng (30 ngày)
+  - 1 năm (khoảng 365 ngày)
+  - 1 tuần (7 ngày)
+  hint: Khoảng thời gian này tương đương với 12 tháng.
+- question: Đặc điểm cấu tạo nào của các loài chim giúp chúng có thể bay lượn dễ dàng trên bầu trời?
+  answer: Có đôi cánh và bộ lông vũ nhẹ
+  choices:
+  - Có cái mỏ nhọn và dài
+  - Có đôi cánh và bộ lông vũ nhẹ
+  - Có đôi chân chắc khỏe
+  - Có mắt tinh tinh tường
+  hint: Lông của chúng cấu tạo đặc biệt giúp cản không khí, cùng với bộ phận vỗ lên xuống để tạo lực nâng.

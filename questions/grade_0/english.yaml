@@ -1,0 +1,81 @@
+questions:
+- question: '''Hello'' nghĩa là gì?'
+  answer: Xin chào
+  choices:
+  - Xin chào
+  - Tạm biệt
+  - Cảm ơn
+  - Xin lỗi
+  hint: Dùng khi gặp nhau.
+- question: '''Cat'' là con gì?'
+  answer: Con mèo
+  choices:
+  - Con chó
+  - Con mèo
+  - Con cá
+  - Con chim
+  hint: Cat kêu meo meo.
+- question: '''One'' là số mấy?'
+  answer: '1'
+  choices:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  hint: One = 1.
+- question: '''Red'' là màu gì?'
+  answer: Màu đỏ
+  choices:
+  - Màu xanh
+  - Màu đỏ
+  - Màu vàng
+  - Màu đen
+  hint: Red = đỏ.
+- question: '''Dog'' là con gì?'
+  answer: Con chó
+  choices:
+  - Con mèo
+  - Con chó
+  - Con bò
+  - Con cá
+  hint: Dog sủa gâu gâu.
+- question: '''Blue'' là màu gì?'
+  answer: Màu xanh dương
+  choices:
+  - Màu đỏ
+  - Màu xanh dương
+  - Màu trắng
+  - Màu hồng
+  hint: Blue là xanh dương.
+- question: '''Bye'' nghĩa là gì?'
+  answer: Tạm biệt
+  choices:
+  - Xin chào
+  - Tạm biệt
+  - Cảm ơn
+  - Ngủ ngon
+  hint: Nói khi rời đi.
+- question: '''Two'' là số mấy?'
+  answer: '2'
+  choices:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  hint: Two = 2.
+- question: '''Apple'' là quả gì?'
+  answer: Quả táo
+  choices:
+  - Quả táo
+  - Quả cam
+  - Quả chuối
+  - Quả nho
+  hint: Apple thường màu đỏ hoặc xanh.
+- question: '''Bird'' là con gì?'
+  answer: Con chim
+  choices:
+  - Con cá
+  - Con chim
+  - Con chó
+  - Con mèo
+  hint: Bird biết bay.

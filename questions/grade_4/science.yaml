@@ -1,0 +1,81 @@
+questions:
+- question: Cơ quan nào giúp con người hô hấp?
+  answer: Phổi
+  choices:
+  - Tim
+  - Phổi
+  - Dạ dày
+  - Gan
+  hint: Phổi trao đổi khí.
+- question: Nước có thể tồn tại ở mấy thể chính?
+  answer: '3'
+  choices:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  hint: Rắn, lỏng, khí.
+- question: Thực vật hấp thụ khí gì để quang hợp?
+  answer: Khí carbon dioxide
+  choices:
+  - Khí oxygen
+  - Khí carbon dioxide
+  - Khí nitrogen
+  - Hơi nước
+  hint: Cây dùng CO2 khi quang hợp.
+- question: Nguồn năng lượng chính của Trái Đất là gì?
+  answer: Mặt trời
+  choices:
+  - Mặt trăng
+  - Mặt trời
+  - Than đá
+  - Gió
+  hint: Mặt trời cung cấp ánh sáng và nhiệt.
+- question: Động vật ăn cỏ thuộc nhóm nào?
+  answer: Sinh vật tiêu thụ
+  choices:
+  - Sinh vật sản xuất
+  - Sinh vật tiêu thụ
+  - Vật không sống
+  - Khoáng sản
+  hint: Động vật lấy thức ăn từ sinh vật khác.
+- question: Vật nào dẫn điện tốt?
+  answer: Đồng
+  choices:
+  - Nhựa
+  - Gỗ
+  - Đồng
+  - Cao su
+  hint: Kim loại thường dẫn điện tốt.
+- question: Hiện tượng nước biến thành hơi gọi là gì?
+  answer: Bay hơi
+  choices:
+  - Đông đặc
+  - Bay hơi
+  - Ngưng tụ
+  - Nóng chảy
+  hint: Nước lỏng thành hơi là bay hơi.
+- question: Bảo vệ môi trường nên làm việc nào?
+  answer: Phân loại rác
+  choices:
+  - Vứt rác xuống sông
+  - Đốt rác bừa bãi
+  - Phân loại rác
+  - Chặt phá rừng
+  hint: Phân loại rác giúp tái chế.
+- question: Hệ Mặt Trời có trung tâm là gì?
+  answer: Mặt trời
+  choices:
+  - Trái Đất
+  - Mặt trời
+  - Mặt trăng
+  - Sao Hỏa
+  hint: Các hành tinh quay quanh Mặt trời.
+- question: Cơ quan nào bơm máu đi khắp cơ thể?
+  answer: Tim
+  choices:
+  - Tim
+  - Phổi
+  - Ruột
+  - Não
+  hint: Tim co bóp để bơm máu.

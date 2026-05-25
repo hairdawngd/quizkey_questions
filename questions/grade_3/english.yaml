@@ -1,0 +1,561 @@
+questions:
+- question: 'Điền từ thích hợp vào chỗ trống: "Hello. _____ is Nam."'
+  answer: My name
+  choices:
+  - I name
+  - My name
+  - Me name
+  - I am name
+  hint: Dùng cụm từ "My name" để giới thiệu tên của mình.
+- question: "How old _____ you?"
+  answer: are
+  choices:
+  - is
+  - am
+  - are
+  - do
+  hint: Đi với đại từ "you" thì động từ to be luôn là "are".
+- question: Quả táo chín thường có màu gì trong tiếng Anh?
+  answer: red
+  choices:
+  - blue
+  - green
+  - red
+  - black
+  hint: Màu đỏ trong tiếng Anh.
+- question: "What is this? - It's a _____." (Đây là cái bút mực)
+  answer: pen
+  choices:
+  - pencil
+  - pen
+  - ruler
+  - eraser
+  hint: Bút mực tiếng Anh là "pen", đừng nhầm với bút chì (pencil).
+- question: 'Chọn mạo từ đúng để điền vào chỗ trống: "Is this _____ eraser?"'
+  answer: an
+  choices:
+  - a
+  - an
+  - the
+  - some
+  hint: Từ "eraser" bắt đầu bằng một nguyên âm (e) nên dùng mạo từ "an".
+- question: "Who is that? - That is my _____." (Đó là anh trai tôi)
+  answer: brother
+  choices:
+  - sister
+  - mother
+  - brother
+  - father
+  hint: Anh/em trai trong tiếng Anh bắt đầu bằng chữ "b".
+- question: Con chó trong tiếng Anh là gì?
+  answer: dog
+  choices:
+  - cat
+  - bird
+  - dog
+  - fish
+  hint: Loài vật thường giữ nhà và sủa "gâu gâu".
+- question: "Touch your _____." (Chạm vào mũi của bạn)
+  answer: nose
+  choices:
+  - ears
+  - eyes
+  - nose
+  - mouth
+  hint: "Mũi" trong tiếng Anh bắt đầu bằng chữ "n".
+- question: "What do you do at break time? - I play _____." (Tôi chơi bóng đá)
+  answer: football
+  choices:
+  - chess
+  - badminton
+  - football
+  - basketball
+  hint: Môn thể thao dùng chân đá bóng vào khung thành.
+- question: "Do you have a _____?" (Bạn có một chú gấu bông không?)
+  answer: teddy bear
+  choices:
+  - car
+  - kite
+  - ball
+  - teddy bear
+  hint: Đồ chơi mềm mại, mang hình dáng chú gấu.
+- question: 'Điền giới từ đúng: "The book is _____ the table." (Quyển sách ở trên bàn)'
+  answer: on
+  choices:
+  - in
+  - on
+  - under
+  - at
+  hint: Từ chỉ vị trí "ở bên trên" tiếp xúc với bề mặt.
+- question: "Where is your mother? - She is in the _____." (Mẹ đang ở nhà bếp)
+  answer: kitchen
+  choices:
+  - bedroom
+  - living room
+  - bathroom
+  - kitchen
+  hint: Nơi dùng để nấu ăn trong nhà.
+- question: Khi tạm biệt ai đó, em nói câu gì?
+  answer: Goodbye
+  choices:
+  - Hello
+  - Good morning
+  - Goodbye
+  - Nice to meet you
+  hint: Lời chào dùng khi kết thúc cuộc gặp gỡ và chia tay nhau.
+- question: Số 9 trong tiếng Anh viết là gì?
+  answer: nine
+  choices:
+  - eight
+  - nine
+  - ten
+  - seven
+  hint: Chữ số đứng sau số 8 và trước số 10.
+- question: "What colour is the sky?" (Bầu trời có màu gì?)
+  answer: blue
+  choices:
+  - yellow
+  - pink
+  - blue
+  - green
+  hint: Bầu trời thường có màu xanh da trời.
+- question: Tìm từ viết đúng chính tả chỉ "Giáo viên":
+  answer: teacher
+  choices:
+  - techer
+  - teacher
+  - teachar
+  - teecher
+  hint: Người dạy học ở trường.
+- question: "Stand _____, please!" (Yêu cầu đứng lên)
+  answer: up
+  choices:
+  - down
+  - in
+  - up
+  - on
+  hint: Hành động đứng lên ngược lại với "Sit down".
+- question: "How are you? - I am _____, thank you." (Tôi khỏe)
+  answer: fine
+  choices:
+  - five
+  - fine
+  - find
+  - file
+  hint: Từ dùng để miêu tả tình trạng sức khỏe tốt.
+- question: "This is my _____." (Đây là phòng học của tôi)
+  answer: classroom
+  choices:
+  - school
+  - library
+  - classroom
+  - playground
+  hint: Căn phòng mà học sinh ngồi học cùng thầy cô.
+- question: "Do you have any _____?" - "Yes, I have two cats."
+  answer: pets
+  choices:
+  - toys
+  - pets
+  - books
+  - pens
+  hint: Từ chỉ thú cưng, vật nuôi trong nhà nói chung.
+- question: "I have two _____." (Tôi có hai con mắt)
+  answer: eyes
+  choices:
+  - nose
+  - eyes
+  - mouth
+  - face
+  hint: Bộ phận dùng để nhìn, vì số nhiều (2) nên phải có "s" ở cuối.
+- question: Dịch từ "mặt trời" sang tiếng Anh:
+  answer: sun
+  choices:
+  - moon
+  - star
+  - sky
+  - sun
+  hint: Vật thể tỏa sáng và tỏa nhiệt vào ban ngày.
+- question: Điền giới từ đúng: "The cat is _____ the bed." (Con mèo ở dưới gầm giường)
+  answer: under
+  choices:
+  - in
+  - on
+  - under
+  - at
+  hint: Từ chỉ vị trí "ở bên dưới".
+- question: "I like drinking _____." (Tôi thích uống sữa)
+  answer: milk
+  choices:
+  - water
+  - milk
+  - juice
+  - tea
+  hint: Thức uống màu trắng, giàu dinh dưỡng, thường vắt từ con bò.
+- question: "_____ is my friend, Mary."
+  answer: She
+  choices:
+  - He
+  - She
+  - It
+  - They
+  hint: Đại từ chỉ người nữ (Mary), ngôi thứ ba số ít.
+- question: "May I _____ out?" (Em xin phép ra ngoài)
+  answer: go
+  choices:
+  - come
+  - sit
+  - stand
+  - go
+  hint: Động từ mang nghĩa là "đi".
+- question: "_____ is that? - That is my teacher."
+  answer: Who
+  choices:
+  - What
+  - Where
+  - How
+  - Who
+  hint: Từ để hỏi về người (Ai vậy?).
+- question: "Open your _____." (Mở miệng của bạn ra)
+  answer: mouth
+  choices:
+  - eyes
+  - ears
+  - mouth
+  - hands
+  hint: Bộ phận trên khuôn mặt dùng để ăn và nói chuyện.
+- question: Con cá trong tiếng Anh là gì?
+  answer: fish
+  choices:
+  - frog
+  - fish
+  - duck
+  - tiger
+  hint: Loài vật sống dưới nước và biết bơi.
+- question: Cái mũ lưỡi trai tiếng Anh gọi là gì?
+  answer: cap
+  choices:
+  - hat
+  - cap
+  - shirt
+  - shoes
+  hint: Bắt đầu bằng chữ "c", dùng để đội che nắng phần mặt.
+- question: "_____ you swim? - Yes, I can."
+  answer: Can
+  choices:
+  - Do
+  - Are
+  - Can
+  - Is
+  hint: Hỏi về khả năng làm gì đó, dùng từ giống với từ được dùng trong câu trả lời.
+- question: "I have a new _____." (Tôi có một con diều mới)
+  answer: kite
+  choices:
+  - kite
+  - ship
+  - plane
+  - train
+  hint: Đồ chơi có thể bay trên trời nhờ sức gió.
+- question: "Close your _____, please." (Làm ơn gấp sách lại)
+  answer: book
+  choices:
+  - book
+  - pen
+  - ruler
+  - eraser
+  hint: Vật dụng dùng để đọc, có thể mở ra và gấp lại.
+- question: "_____ is my grandfather." (Ông ấy là ông của tôi)
+  answer: He
+  choices:
+  - She
+  - He
+  - It
+  - They
+  hint: Đại từ chỉ người nam (ông, bố, anh trai, bạn nam).
+- question: "How many cats do you have? - I have _____ cats." (Tôi có 5 con mèo)
+  answer: five
+  choices:
+  - four
+  - five
+  - six
+  - seven
+  hint: Số 5 trong tiếng Anh.
+- question: "What _____ is this? - It's yellow."
+  answer: colour
+  choices:
+  - name
+  - colour
+  - toy
+  - pet
+  hint: "Yellow" (màu vàng) là một từ chỉ màu sắc.
+- question: Con chim trong tiếng Anh là gì?
+  answer: bird
+  choices:
+  - dog
+  - cat
+  - bird
+  - fish
+  hint: Loài vật có cánh, có lông vũ và biết bay.
+- question: "Touch your _____." (Chạm vào đôi tai của bạn)
+  answer: ears
+  choices:
+  - ears
+  - eyes
+  - nose
+  - mouth
+  hint: Bộ phận trên cơ thể dùng để lắng nghe âm thanh.
+- question: "Let's go to the _____ room. I want to sing." (Hãy đến phòng âm nhạc. Tôi muốn hát)
+  answer: music
+  choices:
+  - art
+  - music
+  - computer
+  - classroom
+  hint: Căn phòng liên quan đến ca hát và các loại nhạc cụ.
+- question: "Are you _____? - Yes, I need some water." (Bạn có khát không? - Có, tôi cần một chút nước)
+  answer: thirsty
+  choices:
+  - hungry
+  - thirsty
+  - happy
+  - sad
+  hint: Từ chỉ cảm giác khi bạn rất muốn uống nước.
+- question: "Nice to _____ you." (Rất vui được gặp bạn)
+  answer: meet
+  choices:
+  - see
+  - meet
+  - look
+  - watch
+  hint: Động từ thường được dùng trong câu chào khi mới làm quen với ai đó.
+- question: "_____ are my books." (Kia là những quyển sách của tôi)
+  answer: Those
+  choices:
+  - This
+  - That
+  - These
+  - Those
+  hint: Đại từ chỉ nhiều sự vật (số nhiều) ở vị trí xa người nói.
+- question: "_____ do you do at break time? - I play blind man's bluff."
+  answer: What
+  choices:
+  - Who
+  - How
+  - What
+  - Where
+  hint: Từ dùng để hỏi về hoạt động hoặc sự vật (Cái gì/Làm gì).
+- question: "It's _____ today. Let's fly a kite." (Hôm nay trời có gió. Hãy đi thả diều nào)
+  answer: windy
+  choices:
+  - rainy
+  - sunny
+  - windy
+  - cloudy
+  hint: Điều kiện thời tiết cần thiết để thả diều bay lên cao.
+- question: "How _____ is your brother? - He is ten years old."
+  answer: old
+  choices:
+  - old
+  - many
+  - much
+  - long
+  hint: Từ dùng trong cấu trúc câu hỏi về tuổi tác.
+- question: "The ball is _____ the box." (Quả bóng đang ở trong chiếc hộp)
+  answer: in
+  choices:
+  - in
+  - on
+  - under
+  - at
+  hint: Giới từ chỉ vị trí ở bên trong.
+- question: "Would you like some _____?" (Bạn có muốn ăn một chút bánh mì không?)
+  answer: bread
+  choices:
+  - water
+  - milk
+  - bread
+  - juice
+  hint: Thực phẩm làm từ bột mì, không phải là đồ uống.
+- question: "My family watches TV in the _____ room." (Gia đình tôi xem tivi ở phòng khách)
+  answer: living
+  choices:
+  - bath
+  - bed
+  - living
+  - dining
+  hint: Nơi dùng để tiếp khách và là không gian sinh hoạt chung của gia đình.
+- question: Cái áo sơ mi trong tiếng Anh gọi là gì?
+  answer: shirt
+  choices:
+  - skirt
+  - shirt
+  - dress
+  - hat
+  hint: Trang phục thường có cổ áo và cúc cài ở phía trước.
+- question: "Where are the _____? - They are in the garden." (Những chú thỏ đang ở đâu?)
+  answer: rabbits
+  choices:
+  - cats
+  - dogs
+  - rabbits
+  - birds
+  hint: Loài động vật thích ăn cà rốt và có đôi tai dài.
+- question: "Good _____, teacher." (Chào buổi sáng, thưa cô)
+  answer: morning
+  choices:
+  - morning
+  - afternoon
+  - evening
+  - night
+  hint: Lời chào được sử dụng vào khoảng thời gian từ lúc thức dậy cho đến 12 giờ trưa.
+- question: "Is this your _____? - Yes, it is." (Đây có phải là cục tẩy của bạn không?)
+  answer: eraser
+  choices:
+  - ruler
+  - pencil
+  - eraser
+  - desk
+  hint: Đồ dùng học tập dùng để xóa nét bút chì.
+- question: "How old is your _____? - She is thirty years old." (Mẹ của bạn bao nhiêu tuổi?)
+  answer: mother
+  choices:
+  - father
+  - mother
+  - brother
+  - grandpa
+  hint: "She" là đại từ chỉ giới tính nữ, nên đáp án phải là từ chỉ người phụ nữ trong gia đình.
+- question: "What are these? - They are _____." (Đây là những con vật gì? - Chúng là những con chó)
+  answer: dogs
+  choices:
+  - dog
+  - a dog
+  - dogs
+  - doges
+  hint: Vì câu hỏi dùng "these" và "are" (số nhiều), nên danh từ con vật phải thêm "s" ở cuối.
+- question: "Can you _____ a bike? - Yes, I can." (Bạn có biết đạp xe đạp không?)
+  answer: ride
+  choices:
+  - play
+  - drive
+  - fly
+  - ride
+  hint: Động từ đi kèm với xe đạp (a bike) mang nghĩa là "đạp xe" hoặc "cưỡi".
+- question: "My mother is cooking in the _____." (Mẹ tôi đang nấu ăn trong nhà bếp)
+  answer: kitchen
+  choices:
+  - bedroom
+  - bathroom
+  - living room
+  - kitchen
+  hint: Căn phòng trong nhà được trang bị bếp lò để nấu nướng.
+- question: "Where is my _____? - It's on the bed." (Con búp bê của tôi ở đâu?)
+  answer: doll
+  choices:
+  - ball
+  - car
+  - doll
+  - robot
+  hint: Một món đồ chơi thường có hình dáng giống bé gái hoặc em bé.
+- question: "What colour _____ your books? - They are blue." (Những quyển sách của bạn màu gì?)
+  answer: are
+  choices:
+  - is
+  - am
+  - do
+  - are
+  hint: "Books" là danh từ số nhiều nên động từ to be đi kèm phải là "are".
+- question: "I touch my _____." (Tôi chạm vào mái tóc của mình)
+  answer: hair
+  choices:
+  - hand
+  - hair
+  - leg
+  - arm
+  hint: Phần mọc trên đầu, thường có màu đen, nâu hoặc vàng.
+- question: "I have _____ pencils." (Tôi có 8 chiếc bút chì)
+  answer: eight
+  choices:
+  - nine
+  - seven
+  - eight
+  - ten
+  hint: Chữ số đứng sau số 7 và trước số 9.
+- question: "Are you _____? - No, I'm happy." (Bạn có buồn không? - Không, tôi rất vui)
+  answer: sad
+  choices:
+  - happy
+  - sad
+  - good
+  - fine
+  hint: Từ chỉ cảm xúc trái ngược với vui vẻ (happy).
+- question: "These are my _____." (Đây là đôi giày của tôi)
+  answer: shoes
+  choices:
+  - shirt
+  - hat
+  - shoes
+  - skirt
+  hint: Đồ vật mang ở chân để đi lại, thường đi theo đôi (số nhiều).
+- question: "I like eating _____." (Tôi thích ăn chuối)
+  answer: bananas
+  choices:
+  - apples
+  - oranges
+  - bananas
+  - grapes
+  hint: Loại quả có vỏ màu vàng khi chín và con khỉ rất thích ăn.
+- question: "It is _____ today. I wear a raincoat." (Hôm nay trời mưa. Tôi mặc áo mưa)
+  answer: rainy
+  choices:
+  - sunny
+  - cloudy
+  - rainy
+  - windy
+  hint: Từ chỉ thời tiết có mưa rơi.
+- question: "What's your hobby? - I like _____." (Sở thích của bạn là gì? - Tôi thích bơi lội)
+  answer: swimming
+  choices:
+  - swim
+  - swimming
+  - swims
+  - to swimming
+  hint: Động từ "swim" khi đứng sau "like" thường thêm đuôi "-ing" và nhân đôi phụ âm cuối.
+- question: "The poster is _____ the wall." (Tấm áp phích ở trên tường)
+  answer: on
+  choices:
+  - in
+  - under
+  - on
+  - at
+  hint: Giới từ chỉ vị trí tiếp xúc trên một bề mặt (trên tường, trên bàn).
+- question: "_____ is that? - That is my school." (Kia là cái gì? - Kia là trường học của tôi)
+  answer: What
+  choices:
+  - Who
+  - How
+  - What
+  - Where
+  hint: Từ dùng để hỏi về sự vật, đồ vật.
+- question: "I draw a picture with a _____." (Tôi vẽ một bức tranh bằng bút chì)
+  answer: pencil
+  choices:
+  - ruler
+  - rubber
+  - pencil
+  - book
+  hint: Loại bút có ngòi bằng than chì, có thể tẩy xóa được.
+- question: "He is my father's father. He is my _____." (Ông ấy là bố của bố tôi. Ông ấy là ông của tôi)
+  answer: grandfather
+  choices:
+  - grandmother
+  - grandfather
+  - uncle
+  - brother
+  hint: Bố của bố (hoặc bố của mẹ) được gọi là ông.
+- question: "The _____ has a long tail." (Con khỉ có một cái đuôi dài)
+  answer: monkey
+  choices:
+  - dog
+  - cat
+  - monkey
+  - duck
+  hint: Loài động vật rất giỏi leo trèo trên cây.
