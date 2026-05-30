@@ -1,9 +1,10 @@
 {
   "app_version": {
-    "latest": "1.0.0",
+    "latest": "1.0.1",
     "min_required": "1.0.0",
-    "download_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.0/quizkey.apk",
-    "changelog": "Phiên bản 1.0.0: \n- Ra mắt ứng dụng QuizKey Questions với hơn 1000 câu hỏi đa dạng từ lớp 1 đến lớp 9.\n- Cải thiện hiệu suất và sửa lỗi nhỏ để nâng cao trải nghiệm người dùng."
+    "download_apk_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.1/quizkey.apk",
+    "download_ipa_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.1/quizkey.ipa",
+    "changelog": "Version v1.0.1 fix bugs and improve performance."
   },
   "questions_version": {
     "grade_0": 1,
