@@ -1,10 +1,10 @@
 {
   "app_version": {
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "min_required": "1.0.0",
-    "download_apk_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.1/quizkey.apk",
-    "download_ipa_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.1/quizkey.ipa",
-    "changelog": "Version v1.0.1 fix bugs and improve performance."
+    "download_apk_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.2/quizkey.apk",
+    "download_ipa_url": "https://github.com/hairdawngd/quizkey_questions/releases/download/v1.0.2/quizkey.ipa",
+    "changelog": "Version v1.0.2 fix bugs overlay not display when screen unlocked"
   },
   "questions_version": {
     "grade_0": 1,
